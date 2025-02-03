@@ -1,0 +1,4090 @@
+[
+    {
+        "buyCount": 5,
+        "buyVolumeSol": 1.408949771,
+        "createdAt": "2025-02-03T21:40:00.000Z",
+        "priceSol": 4.55746148439908E-07,
+        "sellCount": 7,
+        "sellVolumeSol": 0.891770021
+    },
+    {
+        "buyCount": 14,
+        "buyVolumeSol": 5.213362961,
+        "createdAt": "2025-02-03T21:39:00.000Z",
+        "priceSol": 4.22452615094703E-07,
+        "sellCount": 9,
+        "sellVolumeSol": 1.411965541
+    },
+    {
+        "buyCount": 10,
+        "buyVolumeSol": 2.556053598,
+        "createdAt": "2025-02-03T21:38:00.000Z",
+        "priceSol": 4.12823032987098E-07,
+        "sellCount": 11,
+        "sellVolumeSol": 2.384921431
+    },
+    {
+        "buyCount": 3,
+        "buyVolumeSol": 2.317945556,
+        "createdAt": "2025-02-03T21:37:00.000Z",
+        "priceSol": 4.19672960644206E-07,
+        "sellCount": 14,
+        "sellVolumeSol": 2.981040703
+    },
+    {
+        "buyCount": 4,
+        "buyVolumeSol": 0.57649,
+        "createdAt": "2025-02-03T21:36:00.000Z",
+        "priceSol": 4.2081946961436E-07,
+        "sellCount": 7,
+        "sellVolumeSol": 0.74371488
+    },
+    {
+        "buyCount": 8,
+        "buyVolumeSol": 0.912203462,
+        "createdAt": "2025-02-03T21:35:00.000Z",
+        "priceSol": 4.40916912108224E-07,
+        "sellCount": 7,
+        "sellVolumeSol": 2.727445119
+    },
+    {
+        "buyCount": 2,
+        "buyVolumeSol": 2.378917015,
+        "createdAt": "2025-02-03T21:34:00.000Z",
+        "priceSol": 4.43095504400207E-07,
+        "sellCount": 11,
+        "sellVolumeSol": 4.253277153
+    },
+    {
+        "buyCount": 10,
+        "buyVolumeSol": 2.161135125,
+        "createdAt": "2025-02-03T21:33:00.000Z",
+        "priceSol": 4.66713862465344E-07,
+        "sellCount": 13,
+        "sellVolumeSol": 3.128627135
+    },
+    {
+        "buyCount": 12,
+        "buyVolumeSol": 2.425189372,
+        "createdAt": "2025-02-03T21:32:00.000Z",
+        "priceSol": 4.50740743805408E-07,
+        "sellCount": 6,
+        "sellVolumeSol": 0.618738959
+    },
+    {
+        "buyCount": 7,
+        "buyVolumeSol": 3.540925049,
+        "createdAt": "2025-02-03T21:31:00.000Z",
+        "priceSol": 4.29360493598324E-07,
+        "sellCount": 7,
+        "sellVolumeSol": 0.469684626
+    },
+    {
+        "buyCount": 6,
+        "buyVolumeSol": 0.488274162,
+        "createdAt": "2025-02-03T21:30:00.000Z",
+        "priceSol": 4.44385124384771E-07,
+        "sellCount": 9,
+        "sellVolumeSol": 2.965932967
+    },
+    {
+        "buyCount": 11,
+        "buyVolumeSol": 1.802424873,
+        "createdAt": "2025-02-03T21:29:00.000Z",
+        "priceSol": 4.30335916011068E-07,
+        "sellCount": 3,
+        "sellVolumeSol": 0.111266119
+    },
+    {
+        "buyCount": 12,
+        "buyVolumeSol": 2.771442147,
+        "createdAt": "2025-02-03T21:28:00.000Z",
+        "priceSol": 4.05779955401456E-07,
+        "sellCount": 4,
+        "sellVolumeSol": 0.305400827
+    },
+    {
+        "buyCount": 10,
+        "buyVolumeSol": 5.856444706,
+        "createdAt": "2025-02-03T21:27:00.000Z",
+        "priceSol": 4.19032530872247E-07,
+        "sellCount": 12,
+        "sellVolumeSol": 7.646392451
+    },
+    {
+        "buyCount": 5,
+        "buyVolumeSol": 1.913721728,
+        "createdAt": "2025-02-03T21:26:00.000Z",
+        "priceSol": 4.35110039801805E-07,
+        "sellCount": 13,
+        "sellVolumeSol": 3.503604366
+    },
+    {
+        "buyCount": 9,
+        "buyVolumeSol": 1.00367972,
+        "createdAt": "2025-02-03T21:25:00.000Z",
+        "priceSol": 4.40849504849736E-07,
+        "sellCount": 8,
+        "sellVolumeSol": 1.324089844
+    },
+    {
+        "buyCount": 15,
+        "buyVolumeSol": 5.666105362,
+        "createdAt": "2025-02-03T21:24:00.000Z",
+        "priceSol": 3.95645172749826E-07,
+        "sellCount": 11,
+        "sellVolumeSol": 0.818876958
+    },
+    {
+        "buyCount": 9,
+        "buyVolumeSol": 2.551492605,
+        "createdAt": "2025-02-03T21:23:00.000Z",
+        "priceSol": 3.8114648051391E-07,
+        "sellCount": 13,
+        "sellVolumeSol": 0.714543724
+    },
+    {
+        "buyCount": 7,
+        "buyVolumeSol": 0.672683701,
+        "createdAt": "2025-02-03T21:22:00.000Z",
+        "priceSol": 4.23116897767231E-07,
+        "sellCount": 12,
+        "sellVolumeSol": 5.750455176
+    },
+    {
+        "buyCount": 12,
+        "buyVolumeSol": 2.145920204,
+        "createdAt": "2025-02-03T21:21:00.000Z",
+        "priceSol": 4.26340638818781E-07,
+        "sellCount": 11,
+        "sellVolumeSol": 2.081511961
+    },
+    {
+        "buyCount": 8,
+        "buyVolumeSol": 1.387937645,
+        "createdAt": "2025-02-03T21:20:00.000Z",
+        "priceSol": 4.21085865861225E-07,
+        "sellCount": 5,
+        "sellVolumeSol": 0.6991237
+    },
+    {
+        "buyCount": 9,
+        "buyVolumeSol": 0.784066477,
+        "createdAt": "2025-02-03T21:19:00.000Z",
+        "priceSol": 4.21898781213231E-07,
+        "sellCount": 6,
+        "sellVolumeSol": 1.26052503
+    },
+    {
+        "buyCount": 22,
+        "buyVolumeSol": 6.703869,
+        "createdAt": "2025-02-03T21:18:00.000Z",
+        "priceSol": 4.97553377814846E-07,
+        "sellCount": 17,
+        "sellVolumeSol": 15.023749153
+    },
+    {
+        "buyCount": 9,
+        "buyVolumeSol": 2.417525898,
+        "createdAt": "2025-02-03T21:17:00.000Z",
+        "priceSol": 4.98170353535304E-07,
+        "sellCount": 8,
+        "sellVolumeSol": 2.484048332
+    },
+    {
+        "buyCount": 11,
+        "buyVolumeSol": 4.435010031,
+        "createdAt": "2025-02-03T21:16:00.000Z",
+        "priceSol": 4.66058454863081E-07,
+        "sellCount": 6,
+        "sellVolumeSol": 0.12219791
+    },
+    {
+        "buyCount": 8,
+        "buyVolumeSol": 1.158785826,
+        "createdAt": "2025-02-03T21:15:00.000Z",
+        "priceSol": 4.49901407879772E-07,
+        "sellCount": 6,
+        "sellVolumeSol": 0.214981979
+    },
+    {
+        "buyCount": 15,
+        "buyVolumeSol": 5.33803493,
+        "createdAt": "2025-02-03T21:14:00.000Z",
+        "priceSol": 4.28816293756127E-07,
+        "sellCount": 6,
+        "sellVolumeSol": 2.67328678
+    },
+    {
+        "buyCount": 8,
+        "buyVolumeSol": 1.325609792,
+        "createdAt": "2025-02-03T21:13:00.000Z",
+        "priceSol": 4.45115318331194E-07,
+        "sellCount": 10,
+        "sellVolumeSol": 3.452141455
+    },
+    {
+        "buyCount": 3,
+        "buyVolumeSol": 0.193001082,
+        "createdAt": "2025-02-03T21:12:00.000Z",
+        "priceSol": 4.62955674001879E-07,
+        "sellCount": 6,
+        "sellVolumeSol": 1.896155622
+    },
+    {
+        "buyCount": 10,
+        "buyVolumeSol": 5.781199401,
+        "createdAt": "2025-02-03T21:11:00.000Z",
+        "priceSol": 4.60994219455692E-07,
+        "sellCount": 15,
+        "sellVolumeSol": 5.899997314
+    },
+    {
+        "buyCount": 13,
+        "buyVolumeSol": 5.290360803,
+        "createdAt": "2025-02-03T21:10:00.000Z",
+        "priceSol": 4.61859813803952E-07,
+        "sellCount": 14,
+        "sellVolumeSol": 4.927774968
+    },
+    {
+        "buyCount": 12,
+        "buyVolumeSol": 2.46805515,
+        "createdAt": "2025-02-03T21:09:00.000Z",
+        "priceSol": 4.94975158179799E-07,
+        "sellCount": 14,
+        "sellVolumeSol": 5.985462004
+    },
+    {
+        "buyCount": 7,
+        "buyVolumeSol": 2.022386607,
+        "createdAt": "2025-02-03T21:08:00.000Z",
+        "priceSol": 5.09486266648297E-07,
+        "sellCount": 11,
+        "sellVolumeSol": 3.585891507
+    },
+    {
+        "buyCount": 8,
+        "buyVolumeSol": 2.830822343,
+        "createdAt": "2025-02-03T21:07:00.000Z",
+        "priceSol": 5.09197219733208E-07,
+        "sellCount": 17,
+        "sellVolumeSol": 3.777949061
+    },
+    {
+        "buyCount": 9,
+        "buyVolumeSol": 3.413456827,
+        "createdAt": "2025-02-03T21:06:00.000Z",
+        "priceSol": 4.96916528165285E-07,
+        "sellCount": 10,
+        "sellVolumeSol": 1.498470203
+    },
+    {
+        "buyCount": 12,
+        "buyVolumeSol": 2.59623129,
+        "createdAt": "2025-02-03T21:05:00.000Z",
+        "priceSol": 5.16661132772859E-07,
+        "sellCount": 14,
+        "sellVolumeSol": 4.662268241
+    },
+    {
+        "buyCount": 7,
+        "buyVolumeSol": 0.353503479,
+        "createdAt": "2025-02-03T21:04:00.000Z",
+        "priceSol": 5.84711504398518E-07,
+        "sellCount": 8,
+        "sellVolumeSol": 6.905061577
+    },
+    {
+        "buyCount": 7,
+        "buyVolumeSol": 0.643759246,
+        "createdAt": "2025-02-03T21:03:00.000Z",
+        "priceSol": 5.9511376916854E-07,
+        "sellCount": 6,
+        "sellVolumeSol": 1.616607388
+    },
+    {
+        "buyCount": 23,
+        "buyVolumeSol": 10.731571543,
+        "createdAt": "2025-02-03T21:02:00.000Z",
+        "priceSol": 6.08042422449425E-07,
+        "sellCount": 10,
+        "sellVolumeSol": 12.294223638
+    },
+    {
+        "buyCount": 10,
+        "buyVolumeSol": 3.135851273,
+        "createdAt": "2025-02-03T21:01:00.000Z",
+        "priceSol": 5.80691179891944E-07,
+        "sellCount": 8,
+        "sellVolumeSol": 0.460901993
+    },
+    {
+        "buyCount": 8,
+        "buyVolumeSol": 6.322376585,
+        "createdAt": "2025-02-03T21:00:00.000Z",
+        "priceSol": 5.55986022621571E-07,
+        "sellCount": 14,
+        "sellVolumeSol": 3.870125984
+    },
+    {
+        "buyCount": 9,
+        "buyVolumeSol": 3.002003114,
+        "createdAt": "2025-02-03T20:59:00.000Z",
+        "priceSol": 5.36575780622768E-07,
+        "sellCount": 9,
+        "sellVolumeSol": 1.127084579
+    },
+    {
+        "buyCount": 8,
+        "buyVolumeSol": 1.414769116,
+        "createdAt": "2025-02-03T20:58:00.000Z",
+        "priceSol": 5.31252854820693E-07,
+        "sellCount": 5,
+        "sellVolumeSol": 0.468032236
+    },
+    {
+        "buyCount": 14,
+        "buyVolumeSol": 1.704411991,
+        "createdAt": "2025-02-03T20:57:00.000Z",
+        "priceSol": 5.14952708057306E-07,
+        "sellCount": 10,
+        "sellVolumeSol": 0.311984995
+    },
+    {
+        "buyCount": 11,
+        "buyVolumeSol": 2.658940117,
+        "createdAt": "2025-02-03T20:56:00.000Z",
+        "priceSol": 5.36022302286663E-07,
+        "sellCount": 15,
+        "sellVolumeSol": 4.914107621
+    },
+    {
+        "buyCount": 14,
+        "buyVolumeSol": 7.373587455,
+        "createdAt": "2025-02-03T20:55:00.000Z",
+        "priceSol": 4.93090114191516E-07,
+        "sellCount": 11,
+        "sellVolumeSol": 2.955815369
+    },
+    {
+        "buyCount": 25,
+        "buyVolumeSol": 8.971245672,
+        "createdAt": "2025-02-03T20:54:00.000Z",
+        "priceSol": 5.03182977158932E-07,
+        "sellCount": 16,
+        "sellVolumeSol": 8.612176831
+    },
+    {
+        "buyCount": 17,
+        "buyVolumeSol": 12.171488457,
+        "createdAt": "2025-02-03T20:53:00.000Z",
+        "priceSol": 4.18441840377102E-07,
+        "sellCount": 11,
+        "sellVolumeSol": 3.729009832
+    },
+    {
+        "buyCount": 15,
+        "buyVolumeSol": 9.586147886,
+        "createdAt": "2025-02-03T20:52:00.000Z",
+        "priceSol": 3.74504046493219E-07,
+        "sellCount": 14,
+        "sellVolumeSol": 4.221679311
+    },
+    {
+        "buyCount": 10,
+        "buyVolumeSol": 4.64013468,
+        "createdAt": "2025-02-03T20:51:00.000Z",
+        "priceSol": 4.04458409400877E-07,
+        "sellCount": 19,
+        "sellVolumeSol": 8.325123836
+    },
+    {
+        "buyCount": 3,
+        "buyVolumeSol": 0.304821938,
+        "createdAt": "2025-02-03T20:50:00.000Z",
+        "priceSol": 4.10923719253419E-07,
+        "sellCount": 11,
+        "sellVolumeSol": 1.159831069
+    },
+    {
+        "buyCount": 3,
+        "buyVolumeSol": 0.41272,
+        "createdAt": "2025-02-03T20:49:00.000Z",
+        "priceSol": 4.19836705384218E-07,
+        "sellCount": 14,
+        "sellVolumeSol": 1.843402227
+    },
+    {
+        "buyCount": 5,
+        "buyVolumeSol": 0.409219521,
+        "createdAt": "2025-02-03T20:48:00.000Z",
+        "priceSol": 4.4485862905953E-07,
+        "sellCount": 14,
+        "sellVolumeSol": 3.148780313
+    },
+    {
+        "buyCount": 12,
+        "buyVolumeSol": 6.324120341,
+        "createdAt": "2025-02-03T20:47:00.000Z",
+        "priceSol": 4.23523249853223E-07,
+        "sellCount": 12,
+        "sellVolumeSol": 3.870072212
+    },
+    {
+        "buyCount": 16,
+        "buyVolumeSol": 4.832948542,
+        "createdAt": "2025-02-03T20:46:00.000Z",
+        "priceSol": 4.36898612776118E-07,
+        "sellCount": 15,
+        "sellVolumeSol": 6.559053664
+    },
+    {
+        "buyCount": 9,
+        "buyVolumeSol": 3.494884288,
+        "createdAt": "2025-02-03T20:45:00.000Z",
+        "priceSol": 4.49903353785746E-07,
+        "sellCount": 18,
+        "sellVolumeSol": 4.383356399
+    },
+    {
+        "buyCount": 7,
+        "buyVolumeSol": 1.131776169,
+        "createdAt": "2025-02-03T20:44:00.000Z",
+        "priceSol": 4.60839554672532E-07,
+        "sellCount": 13,
+        "sellVolumeSol": 2.727665546
+    },
+    {
+        "buyCount": 0,
+        "buyVolumeSol": 0,
+        "createdAt": "2025-02-03T20:41:00.000Z",
+        "priceSol": 4.43738496897097E-07,
+        "sellCount": 1,
+        "sellVolumeSol": 0.021442057
+    },
+    {
+        "buyCount": 7,
+        "buyVolumeSol": 4.150002997,
+        "createdAt": "2025-02-03T20:40:00.000Z",
+        "priceSol": 4.36410526941764E-07,
+        "sellCount": 14,
+        "sellVolumeSol": 3.486055784
+    },
+    {
+        "buyCount": 8,
+        "buyVolumeSol": 1.620797814,
+        "createdAt": "2025-02-03T20:39:00.000Z",
+        "priceSol": 4.53708989911058E-07,
+        "sellCount": 15,
+        "sellVolumeSol": 3.442177182
+    },
+    {
+        "buyCount": 13,
+        "buyVolumeSol": 2.183418321,
+        "createdAt": "2025-02-03T20:38:00.000Z",
+        "priceSol": 4.73022114138958E-07,
+        "sellCount": 22,
+        "sellVolumeSol": 3.996933323
+    },
+    {
+        "buyCount": 32,
+        "buyVolumeSol": 8.069258603,
+        "createdAt": "2025-02-03T20:37:00.000Z",
+        "priceSol": 4.24252505268589E-07,
+        "sellCount": 15,
+        "sellVolumeSol": 2.889288066
+    },
+    {
+        "buyCount": 14,
+        "buyVolumeSol": 2.521310116,
+        "createdAt": "2025-02-03T20:36:00.000Z",
+        "priceSol": 4.53371847072299E-07,
+        "sellCount": 27,
+        "sellVolumeSol": 5.845713239
+    },
+    {
+        "buyCount": 9,
+        "buyVolumeSol": 1.480480398,
+        "createdAt": "2025-02-03T20:35:00.000Z",
+        "priceSol": 4.8699614790093E-07,
+        "sellCount": 21,
+        "sellVolumeSol": 5.158507017
+    },
+    {
+        "buyCount": 7,
+        "buyVolumeSol": 1.257809746,
+        "createdAt": "2025-02-03T20:34:00.000Z",
+        "priceSol": 4.89148329249953E-07,
+        "sellCount": 11,
+        "sellVolumeSol": 1.956100456
+    },
+    {
+        "buyCount": 16,
+        "buyVolumeSol": 5.202254248,
+        "createdAt": "2025-02-03T20:33:00.000Z",
+        "priceSol": 4.72514582062287E-07,
+        "sellCount": 21,
+        "sellVolumeSol": 2.872904777
+    },
+    {
+        "buyCount": 20,
+        "buyVolumeSol": 5.638176815,
+        "createdAt": "2025-02-03T20:32:00.000Z",
+        "priceSol": 4.94208893447206E-07,
+        "sellCount": 24,
+        "sellVolumeSol": 7.983463152
+    },
+    {
+        "buyCount": 37,
+        "buyVolumeSol": 7.809607506,
+        "createdAt": "2025-02-03T20:31:00.000Z",
+        "priceSol": 4.81561775795394E-07,
+        "sellCount": 18,
+        "sellVolumeSol": 6.560450221
+    },
+    {
+        "buyCount": 14,
+        "buyVolumeSol": 23.121699019,
+        "createdAt": "2025-02-03T20:30:00.000Z",
+        "priceSol": 5.71520395275411E-07,
+        "sellCount": 23,
+        "sellVolumeSol": 31.830504574
+    },
+    {
+        "buyCount": 4,
+        "buyVolumeSol": 0.243198392,
+        "createdAt": "2025-02-03T20:29:00.000Z",
+        "priceSol": 5.98366781380185E-07,
+        "sellCount": 14,
+        "sellVolumeSol": 3.148402996
+    },
+    {
+        "buyCount": 12,
+        "buyVolumeSol": 3.066690244,
+        "createdAt": "2025-02-03T20:28:00.000Z",
+        "priceSol": 5.72123683994887E-07,
+        "sellCount": 7,
+        "sellVolumeSol": 0.518786554
+    },
+    {
+        "buyCount": 11,
+        "buyVolumeSol": 2.711207511,
+        "createdAt": "2025-02-03T20:27:00.000Z",
+        "priceSol": 5.97981059943524E-07,
+        "sellCount": 14,
+        "sellVolumeSol": 4.903980894
+    },
+    {
+        "buyCount": 9,
+        "buyVolumeSol": 2.902199904,
+        "createdAt": "2025-02-03T20:26:00.000Z",
+        "priceSol": 5.8094440253639E-07,
+        "sellCount": 8,
+        "sellVolumeSol": 1.256012844
+    },
+    {
+        "buyCount": 9,
+        "buyVolumeSol": 1.794313075,
+        "createdAt": "2025-02-03T20:25:00.000Z",
+        "priceSol": 5.80412427391485E-07,
+        "sellCount": 11,
+        "sellVolumeSol": 2.031166628
+    },
+    {
+        "buyCount": 15,
+        "buyVolumeSol": 10.780288375,
+        "createdAt": "2025-02-03T20:24:00.000Z",
+        "priceSol": 6.07428080414492E-07,
+        "sellCount": 23,
+        "sellVolumeSol": 13.359561024
+    },
+    {
+        "buyCount": 11,
+        "buyVolumeSol": 1.926502392,
+        "createdAt": "2025-02-03T20:23:00.000Z",
+        "priceSol": 6.38441368129151E-07,
+        "sellCount": 22,
+        "sellVolumeSol": 4.537051823
+    },
+    {
+        "buyCount": 13,
+        "buyVolumeSol": 5.841899911,
+        "createdAt": "2025-02-03T20:22:00.000Z",
+        "priceSol": 6.22408773883162E-07,
+        "sellCount": 15,
+        "sellVolumeSol": 4.672760315
+    },
+    {
+        "buyCount": 15,
+        "buyVolumeSol": 14.108904453,
+        "createdAt": "2025-02-03T20:21:00.000Z",
+        "priceSol": 5.82130208191475E-07,
+        "sellCount": 18,
+        "sellVolumeSol": 10.285232537
+    },
+    {
+        "buyCount": 18,
+        "buyVolumeSol": 4.348000046,
+        "createdAt": "2025-02-03T20:20:00.000Z",
+        "priceSol": 5.5004956325329E-07,
+        "sellCount": 12,
+        "sellVolumeSol": 0.729887709
+    },
+    {
+        "buyCount": 23,
+        "buyVolumeSol": 5.607510661,
+        "createdAt": "2025-02-03T20:19:00.000Z",
+        "priceSol": 5.77728841261161E-07,
+        "sellCount": 24,
+        "sellVolumeSol": 8.367974717
+    },
+    {
+        "buyCount": 25,
+        "buyVolumeSol": 6.072032403,
+        "createdAt": "2025-02-03T20:18:00.000Z",
+        "priceSol": 6.7724420240749E-07,
+        "sellCount": 29,
+        "sellVolumeSol": 16.45599645
+    },
+    {
+        "buyCount": 30,
+        "buyVolumeSol": 4.262100159,
+        "createdAt": "2025-02-03T20:17:00.000Z",
+        "priceSol": 7.12534038797698E-07,
+        "sellCount": 31,
+        "sellVolumeSol": 6.683637718
+    },
+    {
+        "buyCount": 52,
+        "buyVolumeSol": 6.995795227,
+        "createdAt": "2025-02-03T20:16:00.000Z",
+        "priceSol": 6.97169633018805E-07,
+        "sellCount": 42,
+        "sellVolumeSol": 5.255526127
+    },
+    {
+        "buyCount": 24,
+        "buyVolumeSol": 2.342074063,
+        "createdAt": "2025-02-03T20:15:00.000Z",
+        "priceSol": 6.96403659472387E-07,
+        "sellCount": 23,
+        "sellVolumeSol": 2.641737281
+    },
+    {
+        "buyCount": 30,
+        "buyVolumeSol": 3.568916351,
+        "createdAt": "2025-02-03T20:14:00.000Z",
+        "priceSol": 7.06040697383561E-07,
+        "sellCount": 15,
+        "sellVolumeSol": 4.039869335
+    },
+    {
+        "buyCount": 35,
+        "buyVolumeSol": 4.991766122,
+        "createdAt": "2025-02-03T20:13:00.000Z",
+        "priceSol": 7.1076354482033E-07,
+        "sellCount": 31,
+        "sellVolumeSol": 5.388794022
+    },
+    {
+        "buyCount": 30,
+        "buyVolumeSol": 9.910491574,
+        "createdAt": "2025-02-03T20:12:00.000Z",
+        "priceSol": 6.5737842045842E-07,
+        "sellCount": 40,
+        "sellVolumeSol": 4.882368006
+    },
+    {
+        "buyCount": 19,
+        "buyVolumeSol": 3.7610715,
+        "createdAt": "2025-02-03T20:11:00.000Z",
+        "priceSol": 6.3693709695465E-07,
+        "sellCount": 9,
+        "sellVolumeSol": 1.807029404
+    },
+    {
+        "buyCount": 17,
+        "buyVolumeSol": 4.748258396,
+        "createdAt": "2025-02-03T20:10:00.000Z",
+        "priceSol": 6.11295831249907E-07,
+        "sellCount": 19,
+        "sellVolumeSol": 3.062352997
+    },
+    {
+        "buyCount": 9,
+        "buyVolumeSol": 2.018276133,
+        "createdAt": "2025-02-03T20:09:00.000Z",
+        "priceSol": 6.37625054048835E-07,
+        "sellCount": 15,
+        "sellVolumeSol": 4.344802841
+    },
+    {
+        "buyCount": 8,
+        "buyVolumeSol": 1.133199949,
+        "createdAt": "2025-02-03T20:08:00.000Z",
+        "priceSol": 6.35188174086927E-07,
+        "sellCount": 12,
+        "sellVolumeSol": 1.00410698
+    },
+    {
+        "buyCount": 15,
+        "buyVolumeSol": 4.973471977,
+        "createdAt": "2025-02-03T20:07:00.000Z",
+        "priceSol": 6.07607275990889E-07,
+        "sellCount": 12,
+        "sellVolumeSol": 2.419331728
+    },
+    {
+        "buyCount": 21,
+        "buyVolumeSol": 5.908933828,
+        "createdAt": "2025-02-03T20:06:00.000Z",
+        "priceSol": 6.0986910431841E-07,
+        "sellCount": 20,
+        "sellVolumeSol": 6.337008867
+    },
+    {
+        "buyCount": 19,
+        "buyVolumeSol": 10.624543709,
+        "createdAt": "2025-02-03T20:05:00.000Z",
+        "priceSol": 6.19360800236775E-07,
+        "sellCount": 20,
+        "sellVolumeSol": 8.546843127
+    },
+    {
+        "buyCount": 29,
+        "buyVolumeSol": 12.115262036,
+        "createdAt": "2025-02-03T20:04:00.000Z",
+        "priceSol": 5.64406243227001E-07,
+        "sellCount": 16,
+        "sellVolumeSol": 9.01301472
+    },
+    {
+        "buyCount": 25,
+        "buyVolumeSol": 13.2308477,
+        "createdAt": "2025-02-03T20:03:00.000Z",
+        "priceSol": 6.33239190584196E-07,
+        "sellCount": 33,
+        "sellVolumeSol": 19.756616657
+    },
+    {
+        "buyCount": 47,
+        "buyVolumeSol": 10.365083406,
+        "createdAt": "2025-02-03T20:02:00.000Z",
+        "priceSol": 7.11211829123374E-07,
+        "sellCount": 40,
+        "sellVolumeSol": 17.787260025
+    },
+    {
+        "buyCount": 30,
+        "buyVolumeSol": 8.889802261,
+        "createdAt": "2025-02-03T20:01:00.000Z",
+        "priceSol": 6.94867065443517E-07,
+        "sellCount": 38,
+        "sellVolumeSol": 7.461245631
+    },
+    {
+        "buyCount": 23,
+        "buyVolumeSol": 5.01168616,
+        "createdAt": "2025-02-03T20:00:00.000Z",
+        "priceSol": 6.54488288916059E-07,
+        "sellCount": 9,
+        "sellVolumeSol": 0.952574134
+    },
+    {
+        "buyCount": 18,
+        "buyVolumeSol": 4.096468559,
+        "createdAt": "2025-02-03T19:59:00.000Z",
+        "priceSol": 6.45478165564062E-07,
+        "sellCount": 14,
+        "sellVolumeSol": 3.118063645
+    },
+    {
+        "buyCount": 29,
+        "buyVolumeSol": 2.785166837,
+        "createdAt": "2025-02-03T19:58:00.000Z",
+        "priceSol": 7.01199224517701E-07,
+        "sellCount": 25,
+        "sellVolumeSol": 7.949514612
+    },
+    {
+        "buyCount": 38,
+        "buyVolumeSol": 19.159675281,
+        "createdAt": "2025-02-03T19:57:00.000Z",
+        "priceSol": 5.74029322012903E-07,
+        "sellCount": 29,
+        "sellVolumeSol": 7.261802837
+    },
+    {
+        "buyCount": 19,
+        "buyVolumeSol": 3.822746057,
+        "createdAt": "2025-02-03T19:56:00.000Z",
+        "priceSol": 5.70367558300711E-07,
+        "sellCount": 16,
+        "sellVolumeSol": 3.50625507
+    },
+    {
+        "buyCount": 27,
+        "buyVolumeSol": 9.942941744,
+        "createdAt": "2025-02-03T19:55:00.000Z",
+        "priceSol": 6.01875476194542E-07,
+        "sellCount": 30,
+        "sellVolumeSol": 12.998892981
+    },
+    {
+        "buyCount": 38,
+        "buyVolumeSol": 8.194358438,
+        "createdAt": "2025-02-03T19:54:00.000Z",
+        "priceSol": 6.73821604934295E-07,
+        "sellCount": 23,
+        "sellVolumeSol": 15.153659252
+    },
+    {
+        "buyCount": 35,
+        "buyVolumeSol": 7.528224416,
+        "createdAt": "2025-02-03T19:53:00.000Z",
+        "priceSol": 6.59893974979305E-07,
+        "sellCount": 19,
+        "sellVolumeSol": 5.894409195
+    },
+    {
+        "buyCount": 35,
+        "buyVolumeSol": 21.132570272,
+        "createdAt": "2025-02-03T19:52:00.000Z",
+        "priceSol": 6.25907652330466E-07,
+        "sellCount": 18,
+        "sellVolumeSol": 17.969823373
+    },
+    {
+        "buyCount": 25,
+        "buyVolumeSol": 4.276958607,
+        "createdAt": "2025-02-03T19:51:00.000Z",
+        "priceSol": 6.17113311665574E-07,
+        "sellCount": 17,
+        "sellVolumeSol": 3.322266663
+    },
+    {
+        "buyCount": 22,
+        "buyVolumeSol": 9.362677778,
+        "createdAt": "2025-02-03T19:50:00.000Z",
+        "priceSol": 5.57161356783485E-07,
+        "sellCount": 20,
+        "sellVolumeSol": 4.062058983
+    },
+    {
+        "buyCount": 26,
+        "buyVolumeSol": 3.534774363,
+        "createdAt": "2025-02-03T19:49:00.000Z",
+        "priceSol": 5.57972711160916E-07,
+        "sellCount": 14,
+        "sellVolumeSol": 3.236045416
+    },
+    {
+        "buyCount": 24,
+        "buyVolumeSol": 3.479548479,
+        "createdAt": "2025-02-03T19:48:00.000Z",
+        "priceSol": 5.35256471017446E-07,
+        "sellCount": 12,
+        "sellVolumeSol": 1.584532879
+    },
+    {
+        "buyCount": 27,
+        "buyVolumeSol": 5.575372868,
+        "createdAt": "2025-02-03T19:47:00.000Z",
+        "priceSol": 5.75138869755371E-07,
+        "sellCount": 19,
+        "sellVolumeSol": 8.845080005
+    },
+    {
+        "buyCount": 25,
+        "buyVolumeSol": 4.824645957,
+        "createdAt": "2025-02-03T19:46:00.000Z",
+        "priceSol": 5.52965647628263E-07,
+        "sellCount": 19,
+        "sellVolumeSol": 3.234875145
+    },
+    {
+        "buyCount": 28,
+        "buyVolumeSol": 13.05930325,
+        "createdAt": "2025-02-03T19:45:00.000Z",
+        "priceSol": 4.91183521120216E-07,
+        "sellCount": 17,
+        "sellVolumeSol": 6.245770345
+    },
+    {
+        "buyCount": 16,
+        "buyVolumeSol": 7.521294492,
+        "createdAt": "2025-02-03T19:44:00.000Z",
+        "priceSol": 4.74004310133555E-07,
+        "sellCount": 18,
+        "sellVolumeSol": 5.815371485
+    },
+    {
+        "buyCount": 12,
+        "buyVolumeSol": 13.009658315,
+        "createdAt": "2025-02-03T19:43:00.000Z",
+        "priceSol": 4.60428740690131E-07,
+        "sellCount": 21,
+        "sellVolumeSol": 11.789276869
+    },
+    {
+        "buyCount": 20,
+        "buyVolumeSol": 9.356677568,
+        "createdAt": "2025-02-03T19:42:00.000Z",
+        "priceSol": 4.50230511252409E-07,
+        "sellCount": 34,
+        "sellVolumeSol": 8.216528903
+    },
+    {
+        "buyCount": 35,
+        "buyVolumeSol": 8.634700633,
+        "createdAt": "2025-02-03T19:41:00.000Z",
+        "priceSol": 3.95093398151672E-07,
+        "sellCount": 23,
+        "sellVolumeSol": 2.332999837
+    },
+    {
+        "buyCount": 44,
+        "buyVolumeSol": 17.893925878,
+        "createdAt": "2025-02-03T19:40:00.000Z",
+        "priceSol": 4.9486875408893E-07,
+        "sellCount": 36,
+        "sellVolumeSol": 29.038350541
+    },
+    {
+        "buyCount": 39,
+        "buyVolumeSol": 6.253133884,
+        "createdAt": "2025-02-03T19:39:00.000Z",
+        "priceSol": 5.47224451035853E-07,
+        "sellCount": 22,
+        "sellVolumeSol": 11.496568702
+    },
+    {
+        "buyCount": 36,
+        "buyVolumeSol": 11.94081335,
+        "createdAt": "2025-02-03T19:38:00.000Z",
+        "priceSol": 5.20506564660786E-07,
+        "sellCount": 27,
+        "sellVolumeSol": 8.887994403
+    },
+    {
+        "buyCount": 50,
+        "buyVolumeSol": 25.857662336,
+        "createdAt": "2025-02-03T19:37:00.000Z",
+        "priceSol": 6.0973800337802E-07,
+        "sellCount": 33,
+        "sellVolumeSol": 34.954877308
+    },
+    {
+        "buyCount": 43,
+        "buyVolumeSol": 25.858000279,
+        "createdAt": "2025-02-03T19:36:00.000Z",
+        "priceSol": 4.96777179462701E-07,
+        "sellCount": 23,
+        "sellVolumeSol": 14.661982196
+    },
+    {
+        "buyCount": 29,
+        "buyVolumeSol": 7.419515693,
+        "createdAt": "2025-02-03T19:35:00.000Z",
+        "priceSol": 4.53301225784861E-07,
+        "sellCount": 19,
+        "sellVolumeSol": 2.315119321
+    },
+    {
+        "buyCount": 32,
+        "buyVolumeSol": 7.661619443,
+        "createdAt": "2025-02-03T19:34:00.000Z",
+        "priceSol": 4.61373877103215E-07,
+        "sellCount": 22,
+        "sellVolumeSol": 8.795770223
+    },
+    {
+        "buyCount": 33,
+        "buyVolumeSol": 28.052060492,
+        "createdAt": "2025-02-03T19:33:00.000Z",
+        "priceSol": 3.72379426580884E-07,
+        "sellCount": 30,
+        "sellVolumeSol": 17.533707616
+    },
+    {
+        "buyCount": 32,
+        "buyVolumeSol": 9.581932339,
+        "createdAt": "2025-02-03T19:32:00.000Z",
+        "priceSol": 3.18741100678127E-07,
+        "sellCount": 27,
+        "sellVolumeSol": 2.808747546
+    },
+    {
+        "buyCount": 29,
+        "buyVolumeSol": 9.369201364,
+        "createdAt": "2025-02-03T19:31:00.000Z",
+        "priceSol": 2.99878728101573E-07,
+        "sellCount": 33,
+        "sellVolumeSol": 7.139362529
+    },
+    {
+        "buyCount": 36,
+        "buyVolumeSol": 18.423085143,
+        "createdAt": "2025-02-03T19:30:00.000Z",
+        "priceSol": 2.38224757966749E-07,
+        "sellCount": 38,
+        "sellVolumeSol": 8.640413234
+    },
+    {
+        "buyCount": 46,
+        "buyVolumeSol": 59.184930079,
+        "createdAt": "2025-02-03T19:29:00.000Z",
+        "priceSol": 1.9327740026038E-07,
+        "sellCount": 51,
+        "sellVolumeSol": 52.540829789
+    },
+    {
+        "buyCount": 134,
+        "buyVolumeSol": 32.975192456,
+        "createdAt": "2025-02-03T19:28:00.000Z",
+        "priceSol": 2.95480476576225E-07,
+        "sellCount": 67,
+        "sellVolumeSol": 48.208404567
+    },
+    {
+        "buyCount": 157,
+        "buyVolumeSol": 15.083064977,
+        "createdAt": "2025-02-03T19:27:00.000Z",
+        "priceSol": 4.0252629280843E-07,
+        "sellCount": 51,
+        "sellVolumeSol": 28.446621518
+    },
+    {
+        "buyCount": 144,
+        "buyVolumeSol": 9.450145325,
+        "createdAt": "2025-02-03T19:26:00.000Z",
+        "priceSol": 4.59856428730167E-07,
+        "sellCount": 40,
+        "sellVolumeSol": 16.980147633
+    },
+    {
+        "buyCount": 170,
+        "buyVolumeSol": 20.03458302,
+        "createdAt": "2025-02-03T19:25:00.000Z",
+        "priceSol": 4.52418350684183E-07,
+        "sellCount": 49,
+        "sellVolumeSol": 18.015819422
+    },
+    {
+        "buyCount": 158,
+        "buyVolumeSol": 31.695037479,
+        "createdAt": "2025-02-03T19:24:00.000Z",
+        "priceSol": 4.78521996736462E-07,
+        "sellCount": 102,
+        "sellVolumeSol": 34.351534847
+    },
+    {
+        "buyCount": 141,
+        "buyVolumeSol": 33.466055121,
+        "createdAt": "2025-02-03T19:23:00.000Z",
+        "priceSol": 6.51011381104639E-07,
+        "sellCount": 157,
+        "sellVolumeSol": 50.227259758
+    },
+    {
+        "buyCount": 194,
+        "buyVolumeSol": 18.656576922,
+        "createdAt": "2025-02-03T19:22:00.000Z",
+        "priceSol": 7.47449878847966E-07,
+        "sellCount": 156,
+        "sellVolumeSol": 27.078446969
+    },
+    {
+        "buyCount": 184,
+        "buyVolumeSol": 19.898519008,
+        "createdAt": "2025-02-03T19:21:00.000Z",
+        "priceSol": 7.51741335758E-07,
+        "sellCount": 170,
+        "sellVolumeSol": 20.279329724
+    },
+    {
+        "buyCount": 173,
+        "buyVolumeSol": 21.401709924,
+        "createdAt": "2025-02-03T19:20:00.000Z",
+        "priceSol": 7.62254848420746E-07,
+        "sellCount": 192,
+        "sellVolumeSol": 22.620875087
+    },
+    {
+        "buyCount": 196,
+        "buyVolumeSol": 23.982702419,
+        "createdAt": "2025-02-03T19:19:00.000Z",
+        "priceSol": 7.67429598726352E-07,
+        "sellCount": 202,
+        "sellVolumeSol": 24.481593374
+    },
+    {
+        "buyCount": 159,
+        "buyVolumeSol": 27.701455813,
+        "createdAt": "2025-02-03T19:18:00.000Z",
+        "priceSol": 6.69544459560288E-07,
+        "sellCount": 154,
+        "sellVolumeSol": 18.678485236
+    },
+    {
+        "buyCount": 153,
+        "buyVolumeSol": 25.055968849,
+        "createdAt": "2025-02-03T19:17:00.000Z",
+        "priceSol": 5.9607249294811E-07,
+        "sellCount": 174,
+        "sellVolumeSol": 18.561511453
+    },
+    {
+        "buyCount": 247,
+        "buyVolumeSol": 26.52545922,
+        "createdAt": "2025-02-03T19:16:00.000Z",
+        "priceSol": 7.46566351074045E-07,
+        "sellCount": 212,
+        "sellVolumeSol": 39.554283439
+    },
+    {
+        "buyCount": 246,
+        "buyVolumeSol": 33.34574887,
+        "createdAt": "2025-02-03T19:15:00.000Z",
+        "priceSol": 8.13976573674538E-07,
+        "sellCount": 218,
+        "sellVolumeSol": 38.761526581
+    },
+    {
+        "buyCount": 231,
+        "buyVolumeSol": 43.985409761,
+        "createdAt": "2025-02-03T19:14:00.000Z",
+        "priceSol": 7.57136024310448E-07,
+        "sellCount": 288,
+        "sellVolumeSol": 39.628021141
+    },
+    {
+        "buyCount": 284,
+        "buyVolumeSol": 34.429798299,
+        "createdAt": "2025-02-03T19:13:00.000Z",
+        "priceSol": 8.2855446428762E-07,
+        "sellCount": 242,
+        "sellVolumeSol": 40.675555064
+    },
+    {
+        "buyCount": 277,
+        "buyVolumeSol": 43.111857375,
+        "createdAt": "2025-02-03T19:12:00.000Z",
+        "priceSol": 8.92273305736707E-07,
+        "sellCount": 243,
+        "sellVolumeSol": 47.1203354
+    },
+    {
+        "buyCount": 223,
+        "buyVolumeSol": 50.685228536,
+        "createdAt": "2025-02-03T19:11:00.000Z",
+        "priceSol": 7.73044213918857E-07,
+        "sellCount": 304,
+        "sellVolumeSol": 40.635872388
+    },
+    {
+        "buyCount": 233,
+        "buyVolumeSol": 53.100177593,
+        "createdAt": "2025-02-03T19:10:00.000Z",
+        "priceSol": 8.1270819943811E-07,
+        "sellCount": 262,
+        "sellVolumeSol": 57.092064648
+    },
+    {
+        "buyCount": 270,
+        "buyVolumeSol": 108.965354568,
+        "createdAt": "2025-02-03T19:09:00.000Z",
+        "priceSol": 9.81660689901048E-07,
+        "sellCount": 319,
+        "sellVolumeSol": 121.224942239
+    },
+    {
+        "buyCount": 334,
+        "buyVolumeSol": 67.436975725,
+        "createdAt": "2025-02-03T19:08:00.000Z",
+        "priceSol": 1.6674636347288E-06,
+        "sellCount": 262,
+        "sellVolumeSol": 111.648939778
+    },
+    {
+        "buyCount": 220,
+        "buyVolumeSol": 71.741275213,
+        "createdAt": "2025-02-03T19:07:00.000Z",
+        "priceSol": 1.70566346848558E-06,
+        "sellCount": 274,
+        "sellVolumeSol": 73.421725162
+    },
+    {
+        "buyCount": 231,
+        "buyVolumeSol": 47.559054304,
+        "createdAt": "2025-02-03T19:06:00.000Z",
+        "priceSol": 1.80690173999288E-06,
+        "sellCount": 229,
+        "sellVolumeSol": 53.077246185
+    },
+    {
+        "buyCount": 255,
+        "buyVolumeSol": 70.086600047,
+        "createdAt": "2025-02-03T19:05:00.000Z",
+        "priceSol": 1.85054657744178E-06,
+        "sellCount": 287,
+        "sellVolumeSol": 71.555524789
+    },
+    {
+        "buyCount": 313,
+        "buyVolumeSol": 86.750970552,
+        "createdAt": "2025-02-03T19:04:00.000Z",
+        "priceSol": 2.00894397510816E-06,
+        "sellCount": 264,
+        "sellVolumeSol": 94.457336795
+    },
+    {
+        "buyCount": 240,
+        "buyVolumeSol": 85.215724878,
+        "createdAt": "2025-02-03T19:03:00.000Z",
+        "priceSol": 1.99537845E-06,
+        "sellCount": 275,
+        "sellVolumeSol": 84.672216069
+    },
+    {
+        "buyCount": 229,
+        "buyVolumeSol": 82.6588144500001,
+        "createdAt": "2025-02-03T19:02:00.000Z",
+        "priceSol": 1.65778680679635E-06,
+        "sellCount": 282,
+        "sellVolumeSol": 64.896428928
+    },
+    {
+        "buyCount": 383,
+        "buyVolumeSol": 145.692692658,
+        "createdAt": "2025-02-03T19:01:00.000Z",
+        "priceSol": 2.19249594754448E-06,
+        "sellCount": 315,
+        "sellVolumeSol": 172.619212893
+    },
+    {
+        "buyCount": 339,
+        "buyVolumeSol": 148.556238842,
+        "createdAt": "2025-02-03T19:00:00.000Z",
+        "priceSol": 1.54276991922947E-06,
+        "sellCount": 313,
+        "sellVolumeSol": 114.405784824
+    },
+    {
+        "buyCount": 323,
+        "buyVolumeSol": 94.953689494,
+        "createdAt": "2025-02-03T18:59:00.000Z",
+        "priceSol": 2.14437814863324E-06,
+        "sellCount": 314,
+        "sellVolumeSol": 126.919168934
+    },
+    {
+        "buyCount": 383,
+        "buyVolumeSol": 209.900485047,
+        "createdAt": "2025-02-03T18:58:00.000Z",
+        "priceSol": 2.75887706906644E-06,
+        "sellCount": 390,
+        "sellVolumeSol": 237.464436908
+    },
+    {
+        "buyCount": 464,
+        "buyVolumeSol": 190.044282343,
+        "createdAt": "2025-02-03T18:57:00.000Z",
+        "priceSol": 5.68416521208648E-06,
+        "sellCount": 504,
+        "sellVolumeSol": 293.368051068
+    },
+    {
+        "buyCount": 492,
+        "buyVolumeSol": 282.200563588,
+        "createdAt": "2025-02-03T18:56:00.000Z",
+        "priceSol": 1.13256533508225E-05,
+        "sellCount": 388,
+        "sellVolumeSol": 421.747498957001
+    },
+    {
+        "buyCount": 315,
+        "buyVolumeSol": 137.607738479,
+        "createdAt": "2025-02-03T18:55:00.000Z",
+        "priceSol": 1.40062236613016E-05,
+        "sellCount": 220,
+        "sellVolumeSol": 189.821674403
+    },
+    {
+        "buyCount": 265,
+        "buyVolumeSol": 77.182273038,
+        "createdAt": "2025-02-03T18:54:00.000Z",
+        "priceSol": 1.36369783473803E-05,
+        "sellCount": 194,
+        "sellVolumeSol": 71.632885482
+    },
+    {
+        "buyCount": 222,
+        "buyVolumeSol": 96.522371371,
+        "createdAt": "2025-02-03T18:53:00.000Z",
+        "priceSol": 1.31854994275588E-05,
+        "sellCount": 230,
+        "sellVolumeSol": 85.1973144460001
+    },
+    {
+        "buyCount": 226,
+        "buyVolumeSol": 122.499290758,
+        "createdAt": "2025-02-03T18:52:00.000Z",
+        "priceSol": 1.21998955187503E-05,
+        "sellCount": 197,
+        "sellVolumeSol": 102.586881684
+    },
+    {
+        "buyCount": 254,
+        "buyVolumeSol": 89.058844522,
+        "createdAt": "2025-02-03T18:51:00.000Z",
+        "priceSol": 1.31001208527545E-05,
+        "sellCount": 201,
+        "sellVolumeSol": 107.105132128
+    },
+    {
+        "buyCount": 229,
+        "buyVolumeSol": 116.471203168,
+        "createdAt": "2025-02-03T18:50:00.000Z",
+        "priceSol": 1.20885539837416E-05,
+        "sellCount": 212,
+        "sellVolumeSol": 97.497930884
+    },
+    {
+        "buyCount": 252,
+        "buyVolumeSol": 251.867103751,
+        "createdAt": "2025-02-03T18:49:00.000Z",
+        "priceSol": 1.07551363055332E-05,
+        "sellCount": 240,
+        "sellVolumeSol": 221.762162842
+    },
+    {
+        "buyCount": 275,
+        "buyVolumeSol": 100.044499809,
+        "createdAt": "2025-02-03T18:48:00.000Z",
+        "priceSol": 1.1323529791171E-05,
+        "sellCount": 220,
+        "sellVolumeSol": 113.695994239
+    },
+    {
+        "buyCount": 355,
+        "buyVolumeSol": 140.766526767,
+        "createdAt": "2025-02-03T18:47:00.000Z",
+        "priceSol": 1.24328417083947E-05,
+        "sellCount": 311,
+        "sellVolumeSol": 161.556172338
+    },
+    {
+        "buyCount": 305,
+        "buyVolumeSol": 157.75361394,
+        "createdAt": "2025-02-03T18:46:00.000Z",
+        "priceSol": 1.30445478977139E-05,
+        "sellCount": 251,
+        "sellVolumeSol": 171.119523289
+    },
+    {
+        "buyCount": 255,
+        "buyVolumeSol": 66.929399401,
+        "createdAt": "2025-02-03T18:45:00.000Z",
+        "priceSol": 1.27106026566972E-05,
+        "sellCount": 177,
+        "sellVolumeSol": 58.595411135
+    },
+    {
+        "buyCount": 252,
+        "buyVolumeSol": 65.4453807660001,
+        "createdAt": "2025-02-03T18:44:00.000Z",
+        "priceSol": 1.22185345586284E-05,
+        "sellCount": 187,
+        "sellVolumeSol": 57.087132275
+    },
+    {
+        "buyCount": 233,
+        "buyVolumeSol": 90.118113689,
+        "createdAt": "2025-02-03T18:43:00.000Z",
+        "priceSol": 1.194426404789E-05,
+        "sellCount": 210,
+        "sellVolumeSol": 83.972417421
+    },
+    {
+        "buyCount": 251,
+        "buyVolumeSol": 69.092787409,
+        "createdAt": "2025-02-03T18:42:00.000Z",
+        "priceSol": 1.13896543283666E-05,
+        "sellCount": 186,
+        "sellVolumeSol": 58.162707325
+    },
+    {
+        "buyCount": 206,
+        "buyVolumeSol": 67.738247502,
+        "createdAt": "2025-02-03T18:41:00.000Z",
+        "priceSol": 1.0695399307961E-05,
+        "sellCount": 195,
+        "sellVolumeSol": 52.310224515
+    },
+    {
+        "buyCount": 199,
+        "buyVolumeSol": 50.993021167,
+        "createdAt": "2025-02-03T18:40:00.000Z",
+        "priceSol": 1.08198731697802E-05,
+        "sellCount": 188,
+        "sellVolumeSol": 51.870451951
+    },
+    {
+        "buyCount": 213,
+        "buyVolumeSol": 68.860703649,
+        "createdAt": "2025-02-03T18:39:00.000Z",
+        "priceSol": 1.00903931045181E-05,
+        "sellCount": 191,
+        "sellVolumeSol": 56.463364083
+    },
+    {
+        "buyCount": 193,
+        "buyVolumeSol": 72.493295855,
+        "createdAt": "2025-02-03T18:38:00.000Z",
+        "priceSol": 9.68538745675306E-06,
+        "sellCount": 245,
+        "sellVolumeSol": 61.01561677
+    },
+    {
+        "buyCount": 180,
+        "buyVolumeSol": 57.204443675,
+        "createdAt": "2025-02-03T18:37:00.000Z",
+        "priceSol": 9.51489154803738E-06,
+        "sellCount": 223,
+        "sellVolumeSol": 52.815464563
+    },
+    {
+        "buyCount": 171,
+        "buyVolumeSol": 98.006383463,
+        "createdAt": "2025-02-03T18:36:00.000Z",
+        "priceSol": 9.28295402715357E-06,
+        "sellCount": 213,
+        "sellVolumeSol": 92.40188149
+    },
+    {
+        "buyCount": 154,
+        "buyVolumeSol": 57.447856487,
+        "createdAt": "2025-02-03T18:35:00.000Z",
+        "priceSol": 9.03408337516035E-06,
+        "sellCount": 194,
+        "sellVolumeSol": 50.209460557
+    },
+    {
+        "buyCount": 202,
+        "buyVolumeSol": 61.871286591,
+        "createdAt": "2025-02-03T18:34:00.000Z",
+        "priceSol": 8.86489912857143E-06,
+        "sellCount": 231,
+        "sellVolumeSol": 59.284137329
+    },
+    {
+        "buyCount": 197,
+        "buyVolumeSol": 75.13917261,
+        "createdAt": "2025-02-03T18:33:00.000Z",
+        "priceSol": 8.24393871884754E-06,
+        "sellCount": 311,
+        "sellVolumeSol": 59.656155481
+    },
+    {
+        "buyCount": 227,
+        "buyVolumeSol": 53.206289045,
+        "createdAt": "2025-02-03T18:32:00.000Z",
+        "priceSol": 8.21907839060812E-06,
+        "sellCount": 230,
+        "sellVolumeSol": 52.581418176
+    },
+    {
+        "buyCount": 226,
+        "buyVolumeSol": 53.765150585,
+        "createdAt": "2025-02-03T18:31:00.000Z",
+        "priceSol": 9.01082118666562E-06,
+        "sellCount": 181,
+        "sellVolumeSol": 72.594034671
+    },
+    {
+        "buyCount": 160,
+        "buyVolumeSol": 40.867931378,
+        "createdAt": "2025-02-03T18:30:00.000Z",
+        "priceSol": 8.9300276781511E-06,
+        "sellCount": 165,
+        "sellVolumeSol": 37.657481402
+    },
+    {
+        "buyCount": 231,
+        "buyVolumeSol": 63.869550076,
+        "createdAt": "2025-02-03T18:29:00.000Z",
+        "priceSol": 9.19598100307952E-06,
+        "sellCount": 214,
+        "sellVolumeSol": 69.991028022
+    },
+    {
+        "buyCount": 191,
+        "buyVolumeSol": 58.543613631,
+        "createdAt": "2025-02-03T18:28:00.000Z",
+        "priceSol": 9.35304621964336E-06,
+        "sellCount": 194,
+        "sellVolumeSol": 63.277153926
+    },
+    {
+        "buyCount": 207,
+        "buyVolumeSol": 61.462554597,
+        "createdAt": "2025-02-03T18:27:00.000Z",
+        "priceSol": 9.36917230813063E-06,
+        "sellCount": 190,
+        "sellVolumeSol": 60.015400839
+    },
+    {
+        "buyCount": 194,
+        "buyVolumeSol": 44.339600757,
+        "createdAt": "2025-02-03T18:26:00.000Z",
+        "priceSol": 9.36240313527033E-06,
+        "sellCount": 153,
+        "sellVolumeSol": 44.536862414
+    },
+    {
+        "buyCount": 175,
+        "buyVolumeSol": 49.122406548,
+        "createdAt": "2025-02-03T18:25:00.000Z",
+        "priceSol": 9.27237272637637E-06,
+        "sellCount": 166,
+        "sellVolumeSol": 46.566689687
+    },
+    {
+        "buyCount": 219,
+        "buyVolumeSol": 54.909544224,
+        "createdAt": "2025-02-03T18:24:00.000Z",
+        "priceSol": 9.33519657809214E-06,
+        "sellCount": 186,
+        "sellVolumeSol": 57.909541028
+    },
+    {
+        "buyCount": 204,
+        "buyVolumeSol": 63.713357892,
+        "createdAt": "2025-02-03T18:23:00.000Z",
+        "priceSol": 9.1895820032508E-06,
+        "sellCount": 196,
+        "sellVolumeSol": 60.093425439
+    },
+    {
+        "buyCount": 178,
+        "buyVolumeSol": 56.866412801,
+        "createdAt": "2025-02-03T18:22:00.000Z",
+        "priceSol": 9.19260334661191E-06,
+        "sellCount": 199,
+        "sellVolumeSol": 56.801486111
+    },
+    {
+        "buyCount": 163,
+        "buyVolumeSol": 66.322753441,
+        "createdAt": "2025-02-03T18:21:00.000Z",
+        "priceSol": 8.62714998284845E-06,
+        "sellCount": 194,
+        "sellVolumeSol": 52.646740163
+    },
+    {
+        "buyCount": 173,
+        "buyVolumeSol": 45.02880886,
+        "createdAt": "2025-02-03T18:20:00.000Z",
+        "priceSol": 8.74319397184262E-06,
+        "sellCount": 166,
+        "sellVolumeSol": 47.699600309
+    },
+    {
+        "buyCount": 162,
+        "buyVolumeSol": 51.117124122,
+        "createdAt": "2025-02-03T18:19:00.000Z",
+        "priceSol": 8.48021675859383E-06,
+        "sellCount": 196,
+        "sellVolumeSol": 44.766189017
+    },
+    {
+        "buyCount": 191,
+        "buyVolumeSol": 46.0699388,
+        "createdAt": "2025-02-03T18:18:00.000Z",
+        "priceSol": 8.49800379832274E-06,
+        "sellCount": 172,
+        "sellVolumeSol": 45.1462558
+    },
+    {
+        "buyCount": 150,
+        "buyVolumeSol": 41.313560587,
+        "createdAt": "2025-02-03T18:17:00.000Z",
+        "priceSol": 8.38259575799978E-06,
+        "sellCount": 171,
+        "sellVolumeSol": 39.68293946
+    },
+    {
+        "buyCount": 157,
+        "buyVolumeSol": 41.903511027,
+        "createdAt": "2025-02-03T18:16:00.000Z",
+        "priceSol": 8.41789700536356E-06,
+        "sellCount": 159,
+        "sellVolumeSol": 42.599822028
+    },
+    {
+        "buyCount": 172,
+        "buyVolumeSol": 49.717952923,
+        "createdAt": "2025-02-03T18:15:00.000Z",
+        "priceSol": 8.09123622203098E-06,
+        "sellCount": 201,
+        "sellVolumeSol": 41.627024586
+    },
+    {
+        "buyCount": 175,
+        "buyVolumeSol": 48.652321299,
+        "createdAt": "2025-02-03T18:14:00.000Z",
+        "priceSol": 8.02261753719476E-06,
+        "sellCount": 177,
+        "sellVolumeSol": 45.53073627
+    },
+    {
+        "buyCount": 194,
+        "buyVolumeSol": 40.490353886,
+        "createdAt": "2025-02-03T18:13:00.000Z",
+        "priceSol": 8.18192308021924E-06,
+        "sellCount": 158,
+        "sellVolumeSol": 44.337457416
+    },
+    {
+        "buyCount": 226,
+        "buyVolumeSol": 40.526894027,
+        "createdAt": "2025-02-03T18:12:00.000Z",
+        "priceSol": 8.64323704580139E-06,
+        "sellCount": 160,
+        "sellVolumeSol": 51.546237387
+    },
+    {
+        "buyCount": 177,
+        "buyVolumeSol": 49.638807801,
+        "createdAt": "2025-02-03T18:11:00.000Z",
+        "priceSol": 8.51063531590755E-06,
+        "sellCount": 183,
+        "sellVolumeSol": 46.416141672
+    },
+    {
+        "buyCount": 190,
+        "buyVolumeSol": 98.0095715859999,
+        "createdAt": "2025-02-03T18:10:00.000Z",
+        "priceSol": 8.36830814693959E-06,
+        "sellCount": 174,
+        "sellVolumeSol": 95.561633363
+    },
+    {
+        "buyCount": 183,
+        "buyVolumeSol": 48.784649734,
+        "createdAt": "2025-02-03T18:09:00.000Z",
+        "priceSol": 8.37281622459264E-06,
+        "sellCount": 166,
+        "sellVolumeSol": 49.012522499
+    },
+    {
+        "buyCount": 162,
+        "buyVolumeSol": 43.178181198,
+        "createdAt": "2025-02-03T18:08:00.000Z",
+        "priceSol": 8.19315910711242E-06,
+        "sellCount": 182,
+        "sellVolumeSol": 38.352090278
+    },
+    {
+        "buyCount": 168,
+        "buyVolumeSol": 51.384376215,
+        "createdAt": "2025-02-03T18:07:00.000Z",
+        "priceSol": 7.76308491956477E-06,
+        "sellCount": 205,
+        "sellVolumeSol": 39.355095192
+    },
+    {
+        "buyCount": 149,
+        "buyVolumeSol": 32.730669104,
+        "createdAt": "2025-02-03T18:06:00.000Z",
+        "priceSol": 7.70403014952672E-06,
+        "sellCount": 150,
+        "sellVolumeSol": 32.487548481
+    },
+    {
+        "buyCount": 163,
+        "buyVolumeSol": 48.501328492,
+        "createdAt": "2025-02-03T18:05:00.000Z",
+        "priceSol": 7.47577556129822E-06,
+        "sellCount": 196,
+        "sellVolumeSol": 41.382232018
+    },
+    {
+        "buyCount": 236,
+        "buyVolumeSol": 51.661051658,
+        "createdAt": "2025-02-03T18:04:00.000Z",
+        "priceSol": 8.12515903326517E-06,
+        "sellCount": 179,
+        "sellVolumeSol": 67.865215479
+    },
+    {
+        "buyCount": 198,
+        "buyVolumeSol": 57.902546245,
+        "createdAt": "2025-02-03T18:03:00.000Z",
+        "priceSol": 7.67811419029841E-06,
+        "sellCount": 234,
+        "sellVolumeSol": 47.706424159
+    },
+    {
+        "buyCount": 188,
+        "buyVolumeSol": 69.34213441,
+        "createdAt": "2025-02-03T18:02:00.000Z",
+        "priceSol": 7.13243450474379E-06,
+        "sellCount": 248,
+        "sellVolumeSol": 55.102045324
+    },
+    {
+        "buyCount": 191,
+        "buyVolumeSol": 39.870281758,
+        "createdAt": "2025-02-03T18:01:00.000Z",
+        "priceSol": 7.30997987731777E-06,
+        "sellCount": 174,
+        "sellVolumeSol": 43.33831567
+    },
+    {
+        "buyCount": 226,
+        "buyVolumeSol": 52.819964959,
+        "createdAt": "2025-02-03T18:00:00.000Z",
+        "priceSol": 7.79916563694349E-06,
+        "sellCount": 191,
+        "sellVolumeSol": 66.156577218
+    },
+    {
+        "buyCount": 273,
+        "buyVolumeSol": 50.031692894,
+        "createdAt": "2025-02-03T17:59:00.000Z",
+        "priceSol": 8.51002698591656E-06,
+        "sellCount": 188,
+        "sellVolumeSol": 67.482229333
+    },
+    {
+        "buyCount": 211,
+        "buyVolumeSol": 49.157353037,
+        "createdAt": "2025-02-03T17:58:00.000Z",
+        "priceSol": 8.89982318711501E-06,
+        "sellCount": 172,
+        "sellVolumeSol": 58.327661441
+    },
+    {
+        "buyCount": 170,
+        "buyVolumeSol": 54.878076103,
+        "createdAt": "2025-02-03T17:57:00.000Z",
+        "priceSol": 8.665691348177E-06,
+        "sellCount": 180,
+        "sellVolumeSol": 49.066793409
+    },
+    {
+        "buyCount": 192,
+        "buyVolumeSol": 63.784589683,
+        "createdAt": "2025-02-03T17:56:00.000Z",
+        "priceSol": 8.46844949862049E-06,
+        "sellCount": 181,
+        "sellVolumeSol": 58.892088541
+    },
+    {
+        "buyCount": 192,
+        "buyVolumeSol": 59.551940001,
+        "createdAt": "2025-02-03T17:55:00.000Z",
+        "priceSol": 8.3536326505891E-06,
+        "sellCount": 197,
+        "sellVolumeSol": 56.6366334219999
+    },
+    {
+        "buyCount": 213,
+        "buyVolumeSol": 80.597763094,
+        "createdAt": "2025-02-03T17:54:00.000Z",
+        "priceSol": 8.27829566671266E-06,
+        "sellCount": 210,
+        "sellVolumeSol": 77.4909389239999
+    },
+    {
+        "buyCount": 179,
+        "buyVolumeSol": 55.797870536,
+        "createdAt": "2025-02-03T17:53:00.000Z",
+        "priceSol": 8.38014954684564E-06,
+        "sellCount": 191,
+        "sellVolumeSol": 58.091993571
+    },
+    {
+        "buyCount": 193,
+        "buyVolumeSol": 52.936071652,
+        "createdAt": "2025-02-03T17:52:00.000Z",
+        "priceSol": 8.08648371507196E-06,
+        "sellCount": 191,
+        "sellVolumeSol": 46.899808268
+    },
+    {
+        "buyCount": 173,
+        "buyVolumeSol": 46.289581522,
+        "createdAt": "2025-02-03T17:51:00.000Z",
+        "priceSol": 8.10382458646678E-06,
+        "sellCount": 168,
+        "sellVolumeSol": 45.406555086
+    },
+    {
+        "buyCount": 174,
+        "buyVolumeSol": 49.789409195,
+        "createdAt": "2025-02-03T17:50:00.000Z",
+        "priceSol": 7.99352033398069E-06,
+        "sellCount": 184,
+        "sellVolumeSol": 48.112284894
+    },
+    {
+        "buyCount": 191,
+        "buyVolumeSol": 57.735134636,
+        "createdAt": "2025-02-03T17:49:00.000Z",
+        "priceSol": 7.94067699509666E-06,
+        "sellCount": 198,
+        "sellVolumeSol": 55.149029945
+    },
+    {
+        "buyCount": 198,
+        "buyVolumeSol": 53.374568907,
+        "createdAt": "2025-02-03T17:48:00.000Z",
+        "priceSol": 7.95723871522259E-06,
+        "sellCount": 179,
+        "sellVolumeSol": 53.653406719
+    },
+    {
+        "buyCount": 159,
+        "buyVolumeSol": 53.016121901,
+        "createdAt": "2025-02-03T17:47:00.000Z",
+        "priceSol": 7.59115521933541E-06,
+        "sellCount": 193,
+        "sellVolumeSol": 44.832749826
+    },
+    {
+        "buyCount": 157,
+        "buyVolumeSol": 42.949239391,
+        "createdAt": "2025-02-03T17:46:00.000Z",
+        "priceSol": 7.36375854727102E-06,
+        "sellCount": 164,
+        "sellVolumeSol": 36.915642901
+    },
+    {
+        "buyCount": 164,
+        "buyVolumeSol": 39.612606967,
+        "createdAt": "2025-02-03T17:45:00.000Z",
+        "priceSol": 7.19579345212646E-06,
+        "sellCount": 182,
+        "sellVolumeSol": 35.253793591
+    },
+    {
+        "buyCount": 167,
+        "buyVolumeSol": 42.331673355,
+        "createdAt": "2025-02-03T17:44:00.000Z",
+        "priceSol": 7.14375821596852E-06,
+        "sellCount": 165,
+        "sellVolumeSol": 40.804951027
+    },
+    {
+        "buyCount": 154,
+        "buyVolumeSol": 38.506874304,
+        "createdAt": "2025-02-03T17:43:00.000Z",
+        "priceSol": 7.06858754485535E-06,
+        "sellCount": 171,
+        "sellVolumeSol": 35.497517102
+    },
+    {
+        "buyCount": 171,
+        "buyVolumeSol": 38.056360255,
+        "createdAt": "2025-02-03T17:42:00.000Z",
+        "priceSol": 7.06469473716273E-06,
+        "sellCount": 169,
+        "sellVolumeSol": 38.880542639
+    },
+    {
+        "buyCount": 187,
+        "buyVolumeSol": 43.393715954,
+        "createdAt": "2025-02-03T17:41:00.000Z",
+        "priceSol": 7.42905556538034E-06,
+        "sellCount": 172,
+        "sellVolumeSol": 52.705106331
+    },
+    {
+        "buyCount": 162,
+        "buyVolumeSol": 35.835535734,
+        "createdAt": "2025-02-03T17:40:00.000Z",
+        "priceSol": 7.39137430901687E-06,
+        "sellCount": 151,
+        "sellVolumeSol": 35.437714272
+    },
+    {
+        "buyCount": 161,
+        "buyVolumeSol": 40.445229708,
+        "createdAt": "2025-02-03T17:39:00.000Z",
+        "priceSol": 7.25860586969116E-06,
+        "sellCount": 179,
+        "sellVolumeSol": 36.308695962
+    },
+    {
+        "buyCount": 163,
+        "buyVolumeSol": 58.451452332,
+        "createdAt": "2025-02-03T17:38:00.000Z",
+        "priceSol": 6.92319258865362E-06,
+        "sellCount": 220,
+        "sellVolumeSol": 49.466819456
+    },
+    {
+        "buyCount": 171,
+        "buyVolumeSol": 48.889270948,
+        "createdAt": "2025-02-03T17:37:00.000Z",
+        "priceSol": 6.89065968262586E-06,
+        "sellCount": 200,
+        "sellVolumeSol": 47.902838728
+    },
+    {
+        "buyCount": 188,
+        "buyVolumeSol": 58.090088145,
+        "createdAt": "2025-02-03T17:36:00.000Z",
+        "priceSol": 7.14884113137871E-06,
+        "sellCount": 175,
+        "sellVolumeSol": 64.705035325
+    },
+    {
+        "buyCount": 160,
+        "buyVolumeSol": 62.734167779,
+        "createdAt": "2025-02-03T17:35:00.000Z",
+        "priceSol": 6.88557040176379E-06,
+        "sellCount": 209,
+        "sellVolumeSol": 54.581780662
+    },
+    {
+        "buyCount": 163,
+        "buyVolumeSol": 51.708333561,
+        "createdAt": "2025-02-03T17:34:00.000Z",
+        "priceSol": 6.74989141264108E-06,
+        "sellCount": 203,
+        "sellVolumeSol": 49.264558117
+    },
+    {
+        "buyCount": 163,
+        "buyVolumeSol": 41.919516079,
+        "createdAt": "2025-02-03T17:33:00.000Z",
+        "priceSol": 6.51454918312531E-06,
+        "sellCount": 181,
+        "sellVolumeSol": 35.276800727
+    },
+    {
+        "buyCount": 174,
+        "buyVolumeSol": 36.912986179,
+        "createdAt": "2025-02-03T17:32:00.000Z",
+        "priceSol": 6.58950332780617E-06,
+        "sellCount": 154,
+        "sellVolumeSol": 38.882864529
+    },
+    {
+        "buyCount": 206,
+        "buyVolumeSol": 69.805642955,
+        "createdAt": "2025-02-03T17:31:00.000Z",
+        "priceSol": 6.9663039777711E-06,
+        "sellCount": 205,
+        "sellVolumeSol": 78.566926781
+    },
+    {
+        "buyCount": 227,
+        "buyVolumeSol": 53.667567369,
+        "createdAt": "2025-02-03T17:30:00.000Z",
+        "priceSol": 7.41343850379615E-06,
+        "sellCount": 200,
+        "sellVolumeSol": 66.157574045
+    },
+    {
+        "buyCount": 238,
+        "buyVolumeSol": 54.895469408,
+        "createdAt": "2025-02-03T17:29:00.000Z",
+        "priceSol": 7.8349104424143E-06,
+        "sellCount": 205,
+        "sellVolumeSol": 64.137778656
+    },
+    {
+        "buyCount": 193,
+        "buyVolumeSol": 57.289305379,
+        "createdAt": "2025-02-03T17:28:00.000Z",
+        "priceSol": 7.50795817109369E-06,
+        "sellCount": 196,
+        "sellVolumeSol": 50.184382233
+    },
+    {
+        "buyCount": 194,
+        "buyVolumeSol": 65.411924808,
+        "createdAt": "2025-02-03T17:27:00.000Z",
+        "priceSol": 7.27929298740539E-06,
+        "sellCount": 219,
+        "sellVolumeSol": 59.471583493
+    },
+    {
+        "buyCount": 165,
+        "buyVolumeSol": 66.991511647,
+        "createdAt": "2025-02-03T17:26:00.000Z",
+        "priceSol": 7.07946729407556E-06,
+        "sellCount": 190,
+        "sellVolumeSol": 61.584143262
+    },
+    {
+        "buyCount": 166,
+        "buyVolumeSol": 45.702501626,
+        "createdAt": "2025-02-03T17:25:00.000Z",
+        "priceSol": 6.83700963267108E-06,
+        "sellCount": 195,
+        "sellVolumeSol": 39.2535791
+    },
+    {
+        "buyCount": 158,
+        "buyVolumeSol": 38.27699372,
+        "createdAt": "2025-02-03T17:24:00.000Z",
+        "priceSol": 6.6650938446137E-06,
+        "sellCount": 167,
+        "sellVolumeSol": 33.603982
+    },
+    {
+        "buyCount": 152,
+        "buyVolumeSol": 42.517761216,
+        "createdAt": "2025-02-03T17:23:00.000Z",
+        "priceSol": 6.39271580891358E-06,
+        "sellCount": 204,
+        "sellVolumeSol": 34.943277922
+    },
+    {
+        "buyCount": 139,
+        "buyVolumeSol": 36.874300283,
+        "createdAt": "2025-02-03T17:22:00.000Z",
+        "priceSol": 6.15538181010025E-06,
+        "sellCount": 205,
+        "sellVolumeSol": 30.266270542
+    },
+    {
+        "buyCount": 159,
+        "buyVolumeSol": 35.584964931,
+        "createdAt": "2025-02-03T17:21:00.000Z",
+        "priceSol": 6.1683547252238E-06,
+        "sellCount": 174,
+        "sellVolumeSol": 35.872292037
+    },
+    {
+        "buyCount": 151,
+        "buyVolumeSol": 37.475463551,
+        "createdAt": "2025-02-03T17:20:00.000Z",
+        "priceSol": 6.00226765030083E-06,
+        "sellCount": 184,
+        "sellVolumeSol": 32.708578512
+    },
+    {
+        "buyCount": 144,
+        "buyVolumeSol": 39.73485592,
+        "createdAt": "2025-02-03T17:19:00.000Z",
+        "priceSol": 5.82995700047659E-06,
+        "sellCount": 181,
+        "sellVolumeSol": 34.750970418
+    },
+    {
+        "buyCount": 189,
+        "buyVolumeSol": 72.64842228,
+        "createdAt": "2025-02-03T17:18:00.000Z",
+        "priceSol": 6.09311198070392E-06,
+        "sellCount": 172,
+        "sellVolumeSol": 79.843014075
+    },
+    {
+        "buyCount": 205,
+        "buyVolumeSol": 46.1697157,
+        "createdAt": "2025-02-03T17:17:00.000Z",
+        "priceSol": 6.38883855197832E-06,
+        "sellCount": 160,
+        "sellVolumeSol": 53.238942932
+    },
+    {
+        "buyCount": 191,
+        "buyVolumeSol": 35.358644456,
+        "createdAt": "2025-02-03T17:16:00.000Z",
+        "priceSol": 6.71462934374762E-06,
+        "sellCount": 144,
+        "sellVolumeSol": 44.092125033
+    },
+    {
+        "buyCount": 202,
+        "buyVolumeSol": 42.281002593,
+        "createdAt": "2025-02-03T17:15:00.000Z",
+        "priceSol": 6.82045729231591E-06,
+        "sellCount": 177,
+        "sellVolumeSol": 45.04428703
+    },
+    {
+        "buyCount": 184,
+        "buyVolumeSol": 48.39961136,
+        "createdAt": "2025-02-03T17:14:00.000Z",
+        "priceSol": 6.58214655099838E-06,
+        "sellCount": 204,
+        "sellVolumeSol": 42.909687028
+    },
+    {
+        "buyCount": 166,
+        "buyVolumeSol": 45.457305805,
+        "createdAt": "2025-02-03T17:13:00.000Z",
+        "priceSol": 6.28914666540063E-06,
+        "sellCount": 185,
+        "sellVolumeSol": 36.288077239
+    },
+    {
+        "buyCount": 221,
+        "buyVolumeSol": 49.352474771,
+        "createdAt": "2025-02-03T17:12:00.000Z",
+        "priceSol": 6.54875118442221E-06,
+        "sellCount": 197,
+        "sellVolumeSol": 56.377109212
+    },
+    {
+        "buyCount": 240,
+        "buyVolumeSol": 48.402380785,
+        "createdAt": "2025-02-03T17:11:00.000Z",
+        "priceSol": 6.89633246843619E-06,
+        "sellCount": 183,
+        "sellVolumeSol": 57.484959193
+    },
+    {
+        "buyCount": 204,
+        "buyVolumeSol": 50.513448278,
+        "createdAt": "2025-02-03T17:10:00.000Z",
+        "priceSol": 7.050710538081E-06,
+        "sellCount": 179,
+        "sellVolumeSol": 55.612195931
+    },
+    {
+        "buyCount": 216,
+        "buyVolumeSol": 62.059708125,
+        "createdAt": "2025-02-03T17:09:00.000Z",
+        "priceSol": 6.88517494494654E-06,
+        "sellCount": 203,
+        "sellVolumeSol": 56.044722405
+    },
+    {
+        "buyCount": 185,
+        "buyVolumeSol": 46.950306979,
+        "createdAt": "2025-02-03T17:08:00.000Z",
+        "priceSol": 6.79312488685095E-06,
+        "sellCount": 191,
+        "sellVolumeSol": 44.762509487
+    },
+    {
+        "buyCount": 187,
+        "buyVolumeSol": 44.17185329,
+        "createdAt": "2025-02-03T17:07:00.000Z",
+        "priceSol": 6.64041704161944E-06,
+        "sellCount": 170,
+        "sellVolumeSol": 40.071199351
+    },
+    {
+        "buyCount": 177,
+        "buyVolumeSol": 57.091958027,
+        "createdAt": "2025-02-03T17:06:00.000Z",
+        "priceSol": 6.38712124030784E-06,
+        "sellCount": 201,
+        "sellVolumeSol": 51.11462489
+    },
+    {
+        "buyCount": 180,
+        "buyVolumeSol": 71.00887081,
+        "createdAt": "2025-02-03T17:05:00.000Z",
+        "priceSol": 6.18385467262344E-06,
+        "sellCount": 208,
+        "sellVolumeSol": 65.247260268
+    },
+    {
+        "buyCount": 165,
+        "buyVolumeSol": 47.271100737,
+        "createdAt": "2025-02-03T17:04:00.000Z",
+        "priceSol": 6.04272191859404E-06,
+        "sellCount": 175,
+        "sellVolumeSol": 42.222810727
+    },
+    {
+        "buyCount": 143,
+        "buyVolumeSol": 35.727981047,
+        "createdAt": "2025-02-03T17:03:00.000Z",
+        "priceSol": 5.89303225562929E-06,
+        "sellCount": 183,
+        "sellVolumeSol": 31.350606341
+    },
+    {
+        "buyCount": 148,
+        "buyVolumeSol": 37.66501138,
+        "createdAt": "2025-02-03T17:02:00.000Z",
+        "priceSol": 5.76730505679608E-06,
+        "sellCount": 164,
+        "sellVolumeSol": 35.282373529
+    },
+    {
+        "buyCount": 141,
+        "buyVolumeSol": 50.805766839,
+        "createdAt": "2025-02-03T17:01:00.000Z",
+        "priceSol": 5.49943529741428E-06,
+        "sellCount": 174,
+        "sellVolumeSol": 40.629806929
+    },
+    {
+        "buyCount": 212,
+        "buyVolumeSol": 56.459240479,
+        "createdAt": "2025-02-03T17:00:00.000Z",
+        "priceSol": 5.76790870308358E-06,
+        "sellCount": 181,
+        "sellVolumeSol": 66.155967018
+    },
+    {
+        "buyCount": 154,
+        "buyVolumeSol": 40.884675312,
+        "createdAt": "2025-02-03T16:59:00.000Z",
+        "priceSol": 5.7315106426285E-06,
+        "sellCount": 164,
+        "sellVolumeSol": 39.615366283
+    },
+    {
+        "buyCount": 171,
+        "buyVolumeSol": 44.185711138,
+        "createdAt": "2025-02-03T16:58:00.000Z",
+        "priceSol": 5.8260972330811E-06,
+        "sellCount": 179,
+        "sellVolumeSol": 45.83722574
+    },
+    {
+        "buyCount": 201,
+        "buyVolumeSol": 38.108922008,
+        "createdAt": "2025-02-03T16:57:00.000Z",
+        "priceSol": 6.11779392272839E-06,
+        "sellCount": 164,
+        "sellVolumeSol": 46.315688407
+    },
+    {
+        "buyCount": 191,
+        "buyVolumeSol": 51.157519139,
+        "createdAt": "2025-02-03T16:56:00.000Z",
+        "priceSol": 6.40506780290683E-06,
+        "sellCount": 170,
+        "sellVolumeSol": 59.813425262
+    },
+    {
+        "buyCount": 200,
+        "buyVolumeSol": 61.039108929,
+        "createdAt": "2025-02-03T16:55:00.000Z",
+        "priceSol": 6.01123530335122E-06,
+        "sellCount": 188,
+        "sellVolumeSol": 49.130624185
+    },
+    {
+        "buyCount": 215,
+        "buyVolumeSol": 64.3602355220001,
+        "createdAt": "2025-02-03T16:54:00.000Z",
+        "priceSol": 5.75200666316021E-06,
+        "sellCount": 219,
+        "sellVolumeSol": 58.065232997
+    },
+    {
+        "buyCount": 197,
+        "buyVolumeSol": 69.7617444,
+        "createdAt": "2025-02-03T16:53:00.000Z",
+        "priceSol": 5.38296498364803E-06,
+        "sellCount": 247,
+        "sellVolumeSol": 58.470205789
+    },
+    {
+        "buyCount": 225,
+        "buyVolumeSol": 59.664422884,
+        "createdAt": "2025-02-03T16:52:00.000Z",
+        "priceSol": 5.9085578680714E-06,
+        "sellCount": 208,
+        "sellVolumeSol": 74.831204357
+    },
+    {
+        "buyCount": 867,
+        "buyVolumeSol": 326.138309078,
+        "createdAt": "2025-02-03T16:51:00.000Z",
+        "priceSol": 6.20100401661169E-06,
+        "sellCount": 906,
+        "sellVolumeSol": 327.627224904
+    },
+    {
+        "buyCount": 275,
+        "buyVolumeSol": 93.14479962,
+        "createdAt": "2025-02-03T16:46:00.000Z",
+        "priceSol": 6.5018073352381E-06,
+        "sellCount": 271,
+        "sellVolumeSol": 92.820070812
+    },
+    {
+        "buyCount": 199,
+        "buyVolumeSol": 53.515852223,
+        "createdAt": "2025-02-03T16:45:00.000Z",
+        "priceSol": 7.15547563411288E-06,
+        "sellCount": 200,
+        "sellVolumeSol": 70.480448173
+    },
+    {
+        "buyCount": 245,
+        "buyVolumeSol": 55.588283304,
+        "createdAt": "2025-02-03T16:44:00.000Z",
+        "priceSol": 7.61254043437268E-06,
+        "sellCount": 206,
+        "sellVolumeSol": 68.023963817
+    },
+    {
+        "buyCount": 204,
+        "buyVolumeSol": 57.308720121,
+        "createdAt": "2025-02-03T16:43:00.000Z",
+        "priceSol": 7.85362893953409E-06,
+        "sellCount": 182,
+        "sellVolumeSol": 61.942072848
+    },
+    {
+        "buyCount": 203,
+        "buyVolumeSol": 58.161266186,
+        "createdAt": "2025-02-03T16:42:00.000Z",
+        "priceSol": 8.10705960682202E-06,
+        "sellCount": 190,
+        "sellVolumeSol": 65.279849552
+    },
+    {
+        "buyCount": 205,
+        "buyVolumeSol": 63.418778492,
+        "createdAt": "2025-02-03T16:41:00.000Z",
+        "priceSol": 8.46463713537878E-06,
+        "sellCount": 191,
+        "sellVolumeSol": 70.47788644
+    },
+    {
+        "buyCount": 187,
+        "buyVolumeSol": 91.721108827,
+        "createdAt": "2025-02-03T16:40:00.000Z",
+        "priceSol": 8.20754430410495E-06,
+        "sellCount": 188,
+        "sellVolumeSol": 86.619816107
+    },
+    {
+        "buyCount": 237,
+        "buyVolumeSol": 92.981958888,
+        "createdAt": "2025-02-03T16:39:00.000Z",
+        "priceSol": 7.5560256819796E-06,
+        "sellCount": 238,
+        "sellVolumeSol": 77.244276371
+    },
+    {
+        "buyCount": 286,
+        "buyVolumeSol": 79.72283206,
+        "createdAt": "2025-02-03T16:38:00.000Z",
+        "priceSol": 8.59900960067538E-06,
+        "sellCount": 206,
+        "sellVolumeSol": 103.465699425
+    },
+    {
+        "buyCount": 248,
+        "buyVolumeSol": 64.025995881,
+        "createdAt": "2025-02-03T16:37:00.000Z",
+        "priceSol": 8.65170776522096E-06,
+        "sellCount": 207,
+        "sellVolumeSol": 65.946134915
+    },
+    {
+        "buyCount": 233,
+        "buyVolumeSol": 93.6381457889999,
+        "createdAt": "2025-02-03T16:36:00.000Z",
+        "priceSol": 8.18812617960474E-06,
+        "sellCount": 233,
+        "sellVolumeSol": 82.017573863
+    },
+    {
+        "buyCount": 242,
+        "buyVolumeSol": 92.676648078,
+        "createdAt": "2025-02-03T16:35:00.000Z",
+        "priceSol": 7.61490005468764E-06,
+        "sellCount": 224,
+        "sellVolumeSol": 79.00105181
+    },
+    {
+        "buyCount": 203,
+        "buyVolumeSol": 71.620265654,
+        "createdAt": "2025-02-03T16:34:00.000Z",
+        "priceSol": 7.68753034162522E-06,
+        "sellCount": 173,
+        "sellVolumeSol": 72.1263416630001
+    },
+    {
+        "buyCount": 231,
+        "buyVolumeSol": 73.5982374150001,
+        "createdAt": "2025-02-03T16:33:00.000Z",
+        "priceSol": 7.32256082110961E-06,
+        "sellCount": 232,
+        "sellVolumeSol": 65.377658358
+    },
+    {
+        "buyCount": 270,
+        "buyVolumeSol": 88.568762573,
+        "createdAt": "2025-02-03T16:32:00.000Z",
+        "priceSol": 7.07217410171578E-06,
+        "sellCount": 250,
+        "sellVolumeSol": 82.044461219
+    },
+    {
+        "buyCount": 211,
+        "buyVolumeSol": 104.0798657,
+        "createdAt": "2025-02-03T16:31:00.000Z",
+        "priceSol": 6.36262886371754E-06,
+        "sellCount": 228,
+        "sellVolumeSol": 83.984064763
+    },
+    {
+        "buyCount": 243,
+        "buyVolumeSol": 79.190471647,
+        "createdAt": "2025-02-03T16:30:00.000Z",
+        "priceSol": 6.60996758099096E-06,
+        "sellCount": 243,
+        "sellVolumeSol": 85.783259238
+    },
+    {
+        "buyCount": 289,
+        "buyVolumeSol": 61.626725739,
+        "createdAt": "2025-02-03T16:29:00.000Z",
+        "priceSol": 7.29521030157846E-06,
+        "sellCount": 202,
+        "sellVolumeSol": 80.222395999
+    },
+    {
+        "buyCount": 253,
+        "buyVolumeSol": 88.892270463,
+        "createdAt": "2025-02-03T16:28:00.000Z",
+        "priceSol": 7.28338039136749E-06,
+        "sellCount": 217,
+        "sellVolumeSol": 88.238189635
+    },
+    {
+        "buyCount": 226,
+        "buyVolumeSol": 69.98498908,
+        "createdAt": "2025-02-03T16:27:00.000Z",
+        "priceSol": 6.71633694078539E-06,
+        "sellCount": 231,
+        "sellVolumeSol": 55.253352524
+    },
+    {
+        "buyCount": 209,
+        "buyVolumeSol": 80.055434892,
+        "createdAt": "2025-02-03T16:26:00.000Z",
+        "priceSol": 6.26851563686791E-06,
+        "sellCount": 226,
+        "sellVolumeSol": 68.030630995
+    },
+    {
+        "buyCount": 211,
+        "buyVolumeSol": 94.216262275,
+        "createdAt": "2025-02-03T16:25:00.000Z",
+        "priceSol": 5.70964511647584E-06,
+        "sellCount": 212,
+        "sellVolumeSol": 77.390777424
+    },
+    {
+        "buyCount": 179,
+        "buyVolumeSol": 42.868453696,
+        "createdAt": "2025-02-03T16:24:00.000Z",
+        "priceSol": 5.52599436223374E-06,
+        "sellCount": 192,
+        "sellVolumeSol": 38.572920546
+    },
+    {
+        "buyCount": 196,
+        "buyVolumeSol": 46.533168637,
+        "createdAt": "2025-02-03T16:23:00.000Z",
+        "priceSol": 5.62812447035102E-06,
+        "sellCount": 181,
+        "sellVolumeSol": 49.257177361
+    },
+    {
+        "buyCount": 215,
+        "buyVolumeSol": 90.992627727,
+        "createdAt": "2025-02-03T16:22:00.000Z",
+        "priceSol": 5.41099960027613E-06,
+        "sellCount": 193,
+        "sellVolumeSol": 83.204413394
+    },
+    {
+        "buyCount": 168,
+        "buyVolumeSol": 44.534899704,
+        "createdAt": "2025-02-03T16:21:00.000Z",
+        "priceSol": 5.12163637172064E-06,
+        "sellCount": 177,
+        "sellVolumeSol": 36.291984805
+    },
+    {
+        "buyCount": 159,
+        "buyVolumeSol": 45.135443289,
+        "createdAt": "2025-02-03T16:20:00.000Z",
+        "priceSol": 4.85056088925811E-06,
+        "sellCount": 196,
+        "sellVolumeSol": 36.677438619
+    },
+    {
+        "buyCount": 168,
+        "buyVolumeSol": 36.545482902,
+        "createdAt": "2025-02-03T16:19:00.000Z",
+        "priceSol": 4.71345277735936E-06,
+        "sellCount": 178,
+        "sellVolumeSol": 33.22704324
+    },
+    {
+        "buyCount": 187,
+        "buyVolumeSol": 33.509209229,
+        "createdAt": "2025-02-03T16:18:00.000Z",
+        "priceSol": 4.80042810178572E-06,
+        "sellCount": 157,
+        "sellVolumeSol": 35.227723591
+    },
+    {
+        "buyCount": 190,
+        "buyVolumeSol": 36.380827662,
+        "createdAt": "2025-02-03T16:17:00.000Z",
+        "priceSol": 4.88682661420002E-06,
+        "sellCount": 163,
+        "sellVolumeSol": 38.923764669
+    },
+    {
+        "buyCount": 203,
+        "buyVolumeSol": 42.403853932,
+        "createdAt": "2025-02-03T16:16:00.000Z",
+        "priceSol": 5.18256290651238E-06,
+        "sellCount": 171,
+        "sellVolumeSol": 51.328457449
+    },
+    {
+        "buyCount": 171,
+        "buyVolumeSol": 43.682655965,
+        "createdAt": "2025-02-03T16:15:00.000Z",
+        "priceSol": 5.10453946754727E-06,
+        "sellCount": 160,
+        "sellVolumeSol": 42.149603335
+    },
+    {
+        "buyCount": 184,
+        "buyVolumeSol": 51.056636481,
+        "createdAt": "2025-02-03T16:14:00.000Z",
+        "priceSol": 5.10652597324656E-06,
+        "sellCount": 165,
+        "sellVolumeSol": 50.010852791
+    },
+    {
+        "buyCount": 204,
+        "buyVolumeSol": 143.329613127,
+        "createdAt": "2025-02-03T16:13:00.000Z",
+        "priceSol": 4.71203404041738E-06,
+        "sellCount": 212,
+        "sellVolumeSol": 128.600390319
+    },
+    {
+        "buyCount": 190,
+        "buyVolumeSol": 66.8903118480001,
+        "createdAt": "2025-02-03T16:12:00.000Z",
+        "priceSol": 4.27086664662659E-06,
+        "sellCount": 202,
+        "sellVolumeSol": 55.992364466
+    },
+    {
+        "buyCount": 219,
+        "buyVolumeSol": 43.523316715,
+        "createdAt": "2025-02-03T16:11:00.000Z",
+        "priceSol": 4.56904078720807E-06,
+        "sellCount": 188,
+        "sellVolumeSol": 52.138303232
+    },
+    {
+        "buyCount": 246,
+        "buyVolumeSol": 56.523934529,
+        "createdAt": "2025-02-03T16:10:00.000Z",
+        "priceSol": 4.63671280842655E-06,
+        "sellCount": 194,
+        "sellVolumeSol": 58.374824871
+    },
+    {
+        "buyCount": 243,
+        "buyVolumeSol": 50.752712967,
+        "createdAt": "2025-02-03T16:09:00.000Z",
+        "priceSol": 5.11674782314084E-06,
+        "sellCount": 179,
+        "sellVolumeSol": 65.379549649
+    },
+    {
+        "buyCount": 207,
+        "buyVolumeSol": 46.110485407,
+        "createdAt": "2025-02-03T16:08:00.000Z",
+        "priceSol": 5.16579366793306E-06,
+        "sellCount": 157,
+        "sellVolumeSol": 47.427510092
+    },
+    {
+        "buyCount": 215,
+        "buyVolumeSol": 58.691509891,
+        "createdAt": "2025-02-03T16:07:00.000Z",
+        "priceSol": 4.91071765311399E-06,
+        "sellCount": 186,
+        "sellVolumeSol": 50.8308353
+    },
+    {
+        "buyCount": 187,
+        "buyVolumeSol": 76.961793186,
+        "createdAt": "2025-02-03T16:06:00.000Z",
+        "priceSol": 4.69235440458464E-06,
+        "sellCount": 179,
+        "sellVolumeSol": 71.228601386
+    },
+    {
+        "buyCount": 190,
+        "buyVolumeSol": 45.452080451,
+        "createdAt": "2025-02-03T16:05:00.000Z",
+        "priceSol": 4.64179710603663E-06,
+        "sellCount": 181,
+        "sellVolumeSol": 43.722588687
+    },
+    {
+        "buyCount": 157,
+        "buyVolumeSol": 42.481240691,
+        "createdAt": "2025-02-03T16:04:00.000Z",
+        "priceSol": 4.48239699445266E-06,
+        "sellCount": 166,
+        "sellVolumeSol": 37.146210558
+    },
+    {
+        "buyCount": 187,
+        "buyVolumeSol": 52.250021115,
+        "createdAt": "2025-02-03T16:03:00.000Z",
+        "priceSol": 4.32455129811566E-06,
+        "sellCount": 156,
+        "sellVolumeSol": 47.141926229
+    },
+    {
+        "buyCount": 190,
+        "buyVolumeSol": 53.332609648,
+        "createdAt": "2025-02-03T16:02:00.000Z",
+        "priceSol": 4.2915059540936E-06,
+        "sellCount": 162,
+        "sellVolumeSol": 52.045894328
+    },
+    {
+        "buyCount": 172,
+        "buyVolumeSol": 50.850352626,
+        "createdAt": "2025-02-03T16:01:00.000Z",
+        "priceSol": 4.17328650956812E-06,
+        "sellCount": 189,
+        "sellVolumeSol": 46.822351646
+    },
+    {
+        "buyCount": 165,
+        "buyVolumeSol": 38.731998166,
+        "createdAt": "2025-02-03T16:00:00.000Z",
+        "priceSol": 4.08727661299623E-06,
+        "sellCount": 154,
+        "sellVolumeSol": 35.089555944
+    },
+    {
+        "buyCount": 153,
+        "buyVolumeSol": 43.388121164,
+        "createdAt": "2025-02-03T15:59:00.000Z",
+        "priceSol": 3.82858004222009E-06,
+        "sellCount": 168,
+        "sellVolumeSol": 35.654321402
+    },
+    {
+        "buyCount": 151,
+        "buyVolumeSol": 32.62257416,
+        "createdAt": "2025-02-03T15:58:00.000Z",
+        "priceSol": 3.7790706003496E-06,
+        "sellCount": 155,
+        "sellVolumeSol": 30.457232797
+    },
+    {
+        "buyCount": 138,
+        "buyVolumeSol": 29.324525017,
+        "createdAt": "2025-02-03T15:57:00.000Z",
+        "priceSol": 3.74909046179995E-06,
+        "sellCount": 148,
+        "sellVolumeSol": 28.177786781
+    },
+    {
+        "buyCount": 139,
+        "buyVolumeSol": 31.125368452,
+        "createdAt": "2025-02-03T15:56:00.000Z",
+        "priceSol": 3.71666487179788E-06,
+        "sellCount": 146,
+        "sellVolumeSol": 29.925930025
+    },
+    {
+        "buyCount": 143,
+        "buyVolumeSol": 33.626609041,
+        "createdAt": "2025-02-03T15:55:00.000Z",
+        "priceSol": 3.71844654648032E-06,
+        "sellCount": 156,
+        "sellVolumeSol": 33.619411951
+    },
+    {
+        "buyCount": 143,
+        "buyVolumeSol": 29.910458536,
+        "createdAt": "2025-02-03T15:54:00.000Z",
+        "priceSol": 3.69887173271047E-06,
+        "sellCount": 147,
+        "sellVolumeSol": 29.549440598
+    },
+    {
+        "buyCount": 128,
+        "buyVolumeSol": 30.285255725,
+        "createdAt": "2025-02-03T15:53:00.000Z",
+        "priceSol": 3.63918933593267E-06,
+        "sellCount": 147,
+        "sellVolumeSol": 27.709041819
+    },
+    {
+        "buyCount": 135,
+        "buyVolumeSol": 32.060159031,
+        "createdAt": "2025-02-03T15:52:00.000Z",
+        "priceSol": 3.58644035063102E-06,
+        "sellCount": 166,
+        "sellVolumeSol": 30.246400769
+    },
+    {
+        "buyCount": 130,
+        "buyVolumeSol": 28.604165833,
+        "createdAt": "2025-02-03T15:51:00.000Z",
+        "priceSol": 3.56917305011048E-06,
+        "sellCount": 152,
+        "sellVolumeSol": 27.094957492
+    },
+    {
+        "buyCount": 179,
+        "buyVolumeSol": 32.81720752,
+        "createdAt": "2025-02-03T15:50:00.000Z",
+        "priceSol": 3.6023259096994E-06,
+        "sellCount": 150,
+        "sellVolumeSol": 34.715777743
+    },
+    {
+        "buyCount": 149,
+        "buyVolumeSol": 30.026114312,
+        "createdAt": "2025-02-03T15:49:00.000Z",
+        "priceSol": 3.6354743803191E-06,
+        "sellCount": 155,
+        "sellVolumeSol": 30.998990285
+    },
+    {
+        "buyCount": 144,
+        "buyVolumeSol": 29.280008117,
+        "createdAt": "2025-02-03T15:48:00.000Z",
+        "priceSol": 3.65601985795032E-06,
+        "sellCount": 137,
+        "sellVolumeSol": 29.151018998
+    },
+    {
+        "buyCount": 146,
+        "buyVolumeSol": 33.786597316,
+        "createdAt": "2025-02-03T15:47:00.000Z",
+        "priceSol": 3.5456668138849E-06,
+        "sellCount": 149,
+        "sellVolumeSol": 29.792301011
+    },
+    {
+        "buyCount": 189,
+        "buyVolumeSol": 42.430971023,
+        "createdAt": "2025-02-03T15:46:00.000Z",
+        "priceSol": 3.65939790301355E-06,
+        "sellCount": 168,
+        "sellVolumeSol": 47.14823124
+    },
+    {
+        "buyCount": 140,
+        "buyVolumeSol": 32.33271417,
+        "createdAt": "2025-02-03T15:45:00.000Z",
+        "priceSol": 3.56302097496248E-06,
+        "sellCount": 149,
+        "sellVolumeSol": 28.975706271
+    },
+    {
+        "buyCount": 161,
+        "buyVolumeSol": 29.43548702,
+        "createdAt": "2025-02-03T15:44:00.000Z",
+        "priceSol": 3.72491720855237E-06,
+        "sellCount": 143,
+        "sellVolumeSol": 34.141308909
+    },
+    {
+        "buyCount": 159,
+        "buyVolumeSol": 30.434593094,
+        "createdAt": "2025-02-03T15:43:00.000Z",
+        "priceSol": 3.80639806271732E-06,
+        "sellCount": 135,
+        "sellVolumeSol": 33.216507605
+    },
+    {
+        "buyCount": 158,
+        "buyVolumeSol": 33.004417766,
+        "createdAt": "2025-02-03T15:42:00.000Z",
+        "priceSol": 3.82197733377061E-06,
+        "sellCount": 142,
+        "sellVolumeSol": 33.478654584
+    },
+    {
+        "buyCount": 156,
+        "buyVolumeSol": 37.954509384,
+        "createdAt": "2025-02-03T15:41:00.000Z",
+        "priceSol": 3.73065346525636E-06,
+        "sellCount": 149,
+        "sellVolumeSol": 35.769391113
+    },
+    {
+        "buyCount": 135,
+        "buyVolumeSol": 29.041891726,
+        "createdAt": "2025-02-03T15:40:00.000Z",
+        "priceSol": 3.74630894307291E-06,
+        "sellCount": 136,
+        "sellVolumeSol": 28.341577525
+    },
+    {
+        "buyCount": 154,
+        "buyVolumeSol": 32.460420234,
+        "createdAt": "2025-02-03T15:39:00.000Z",
+        "priceSol": 3.7059251251324E-06,
+        "sellCount": 140,
+        "sellVolumeSol": 31.877064152
+    },
+    {
+        "buyCount": 152,
+        "buyVolumeSol": 30.724982745,
+        "createdAt": "2025-02-03T15:38:00.000Z",
+        "priceSol": 3.68748403874846E-06,
+        "sellCount": 125,
+        "sellVolumeSol": 29.958374182
+    },
+    {
+        "buyCount": 154,
+        "buyVolumeSol": 31.119642345,
+        "createdAt": "2025-02-03T15:37:00.000Z",
+        "priceSol": 3.68650651344083E-06,
+        "sellCount": 143,
+        "sellVolumeSol": 31.058527819
+    },
+    {
+        "buyCount": 181,
+        "buyVolumeSol": 43.360460356,
+        "createdAt": "2025-02-03T15:36:00.000Z",
+        "priceSol": 3.81061322568188E-06,
+        "sellCount": 155,
+        "sellVolumeSol": 47.440716559
+    },
+    {
+        "buyCount": 162,
+        "buyVolumeSol": 44.288099652,
+        "createdAt": "2025-02-03T15:35:00.000Z",
+        "priceSol": 3.72222192152788E-06,
+        "sellCount": 157,
+        "sellVolumeSol": 39.721059492
+    },
+    {
+        "buyCount": 163,
+        "buyVolumeSol": 33.074387703,
+        "createdAt": "2025-02-03T15:34:00.000Z",
+        "priceSol": 3.72233515472726E-06,
+        "sellCount": 157,
+        "sellVolumeSol": 34.891113741
+    },
+    {
+        "buyCount": 134,
+        "buyVolumeSol": 44.896642855,
+        "createdAt": "2025-02-03T15:33:00.000Z",
+        "priceSol": 3.54353538680813E-06,
+        "sellCount": 153,
+        "sellVolumeSol": 37.311594108
+    },
+    {
+        "buyCount": 157,
+        "buyVolumeSol": 31.615485117,
+        "createdAt": "2025-02-03T15:32:00.000Z",
+        "priceSol": 3.52288089518729E-06,
+        "sellCount": 139,
+        "sellVolumeSol": 30.878616505
+    },
+    {
+        "buyCount": 160,
+        "buyVolumeSol": 30.547420886,
+        "createdAt": "2025-02-03T15:31:00.000Z",
+        "priceSol": 3.65550171935486E-06,
+        "sellCount": 152,
+        "sellVolumeSol": 35.132357928
+    },
+    {
+        "buyCount": 152,
+        "buyVolumeSol": 31.637774628,
+        "createdAt": "2025-02-03T15:30:00.000Z",
+        "priceSol": 3.67068875466765E-06,
+        "sellCount": 145,
+        "sellVolumeSol": 31.622353957
+    },
+    {
+        "buyCount": 143,
+        "buyVolumeSol": 46.305084773,
+        "createdAt": "2025-02-03T15:29:00.000Z",
+        "priceSol": 3.63939054262587E-06,
+        "sellCount": 153,
+        "sellVolumeSol": 45.542782205
+    },
+    {
+        "buyCount": 181,
+        "buyVolumeSol": 34.787159345,
+        "createdAt": "2025-02-03T15:28:00.000Z",
+        "priceSol": 3.72999820279878E-06,
+        "sellCount": 157,
+        "sellVolumeSol": 39.088143443
+    },
+    {
+        "buyCount": 158,
+        "buyVolumeSol": 36.186014594,
+        "createdAt": "2025-02-03T15:27:00.000Z",
+        "priceSol": 3.6887735097938E-06,
+        "sellCount": 153,
+        "sellVolumeSol": 34.210796552
+    },
+    {
+        "buyCount": 140,
+        "buyVolumeSol": 34.687305792,
+        "createdAt": "2025-02-03T15:26:00.000Z",
+        "priceSol": 3.51810575382034E-06,
+        "sellCount": 145,
+        "sellVolumeSol": 28.519612792
+    },
+    {
+        "buyCount": 134,
+        "buyVolumeSol": 35.714455188,
+        "createdAt": "2025-02-03T15:25:00.000Z",
+        "priceSol": 3.35410502616729E-06,
+        "sellCount": 155,
+        "sellVolumeSol": 29.816160095
+    },
+    {
+        "buyCount": 143,
+        "buyVolumeSol": 30.357910355,
+        "createdAt": "2025-02-03T15:24:00.000Z",
+        "priceSol": 3.1942041750506E-06,
+        "sellCount": 174,
+        "sellVolumeSol": 23.612724283
+    },
+    {
+        "buyCount": 125,
+        "buyVolumeSol": 26.769098892,
+        "createdAt": "2025-02-03T15:23:00.000Z",
+        "priceSol": 3.06368848877818E-06,
+        "sellCount": 138,
+        "sellVolumeSol": 22.602547356
+    },
+    {
+        "buyCount": 135,
+        "buyVolumeSol": 29.328463296,
+        "createdAt": "2025-02-03T15:22:00.000Z",
+        "priceSol": 3.00500573428565E-06,
+        "sellCount": 152,
+        "sellVolumeSol": 27.01200671
+    },
+    {
+        "buyCount": 166,
+        "buyVolumeSol": 33.595164866,
+        "createdAt": "2025-02-03T15:21:00.000Z",
+        "priceSol": 3.11280843293184E-06,
+        "sellCount": 156,
+        "sellVolumeSol": 37.586865806
+    },
+    {
+        "buyCount": 151,
+        "buyVolumeSol": 28.483891529,
+        "createdAt": "2025-02-03T15:20:00.000Z",
+        "priceSol": 3.15361595110806E-06,
+        "sellCount": 147,
+        "sellVolumeSol": 29.268116998
+    },
+    {
+        "buyCount": 166,
+        "buyVolumeSol": 34.634765435,
+        "createdAt": "2025-02-03T15:19:00.000Z",
+        "priceSol": 3.27925764431913E-06,
+        "sellCount": 161,
+        "sellVolumeSol": 40.339431357
+    },
+    {
+        "buyCount": 191,
+        "buyVolumeSol": 31.697330015,
+        "createdAt": "2025-02-03T15:18:00.000Z",
+        "priceSol": 3.43585906626473E-06,
+        "sellCount": 147,
+        "sellVolumeSol": 36.955636921
+    },
+    {
+        "buyCount": 183,
+        "buyVolumeSol": 33.200102531,
+        "createdAt": "2025-02-03T15:17:00.000Z",
+        "priceSol": 3.63411075805943E-06,
+        "sellCount": 140,
+        "sellVolumeSol": 39.003140788
+    },
+    {
+        "buyCount": 189,
+        "buyVolumeSol": 31.044481571,
+        "createdAt": "2025-02-03T15:16:00.000Z",
+        "priceSol": 3.71820762640734E-06,
+        "sellCount": 135,
+        "sellVolumeSol": 34.799614136
+    },
+    {
+        "buyCount": 221,
+        "buyVolumeSol": 39.578877398,
+        "createdAt": "2025-02-03T15:15:00.000Z",
+        "priceSol": 3.64944470444999E-06,
+        "sellCount": 148,
+        "sellVolumeSol": 36.432781512
+    },
+    {
+        "buyCount": 434,
+        "buyVolumeSol": 95.6811016520002,
+        "createdAt": "2025-02-03T15:14:00.000Z",
+        "priceSol": 3.54401126521715E-06,
+        "sellCount": 274,
+        "sellVolumeSol": 92.457138883
+    },
+    {
+        "buyCount": 241,
+        "buyVolumeSol": 30.862003434,
+        "createdAt": "2025-02-03T15:12:00.000Z",
+        "priceSol": 3.46736078488783E-06,
+        "sellCount": 143,
+        "sellVolumeSol": 27.367642077
+    },
+    {
+        "buyCount": 222,
+        "buyVolumeSol": 31.535276544,
+        "createdAt": "2025-02-03T15:11:00.000Z",
+        "priceSol": 3.72029223615396E-06,
+        "sellCount": 154,
+        "sellVolumeSol": 40.991017746
+    },
+    {
+        "buyCount": 245,
+        "buyVolumeSol": 38.253792663,
+        "createdAt": "2025-02-03T15:10:00.000Z",
+        "priceSol": 3.88223014005028E-06,
+        "sellCount": 150,
+        "sellVolumeSol": 42.844080582
+    },
+    {
+        "buyCount": 272,
+        "buyVolumeSol": 34.837494331,
+        "createdAt": "2025-02-03T15:09:00.000Z",
+        "priceSol": 4.06219459045847E-06,
+        "sellCount": 117,
+        "sellVolumeSol": 40.837473092
+    },
+    {
+        "buyCount": 229,
+        "buyVolumeSol": 30.302632123,
+        "createdAt": "2025-02-03T15:08:00.000Z",
+        "priceSol": 3.74900712232624E-06,
+        "sellCount": 152,
+        "sellVolumeSol": 19.775973716
+    },
+    {
+        "buyCount": 239,
+        "buyVolumeSol": 33.757190081,
+        "createdAt": "2025-02-03T15:07:00.000Z",
+        "priceSol": 3.80846055262541E-06,
+        "sellCount": 143,
+        "sellVolumeSol": 35.640608373
+    },
+    {
+        "buyCount": 276,
+        "buyVolumeSol": 42.6323588680001,
+        "createdAt": "2025-02-03T15:06:00.000Z",
+        "priceSol": 4.19494079015408E-06,
+        "sellCount": 215,
+        "sellVolumeSol": 54.914657131
+    },
+    {
+        "buyCount": 230,
+        "buyVolumeSol": 32.31659779,
+        "createdAt": "2025-02-03T15:05:00.000Z",
+        "priceSol": 4.09576031567327E-06,
+        "sellCount": 128,
+        "sellVolumeSol": 29.390988701
+    },
+    {
+        "buyCount": 306,
+        "buyVolumeSol": 41.4728154719999,
+        "createdAt": "2025-02-03T15:04:00.000Z",
+        "priceSol": 3.91667018639488E-06,
+        "sellCount": 169,
+        "sellVolumeSol": 36.175726138
+    },
+    {
+        "buyCount": 251,
+        "buyVolumeSol": 27.065918034,
+        "createdAt": "2025-02-03T15:03:00.000Z",
+        "priceSol": 3.8868263527572E-06,
+        "sellCount": 133,
+        "sellVolumeSol": 25.206994022
+    },
+    {
+        "buyCount": 233,
+        "buyVolumeSol": 26.864009137,
+        "createdAt": "2025-02-03T15:02:00.000Z",
+        "priceSol": 3.95397848486767E-06,
+        "sellCount": 127,
+        "sellVolumeSol": 29.843820107
+    },
+    {
+        "buyCount": 252,
+        "buyVolumeSol": 31.405512731,
+        "createdAt": "2025-02-03T15:01:00.000Z",
+        "priceSol": 3.81595288536936E-06,
+        "sellCount": 127,
+        "sellVolumeSol": 25.948966776
+    },
+    {
+        "buyCount": 327,
+        "buyVolumeSol": 51.2144018150001,
+        "createdAt": "2025-02-03T15:00:00.000Z",
+        "priceSol": 3.55335979816958E-06,
+        "sellCount": 180,
+        "sellVolumeSol": 42.037251667
+    },
+    {
+        "buyCount": 233,
+        "buyVolumeSol": 35.345362402,
+        "createdAt": "2025-02-03T14:59:00.000Z",
+        "priceSol": 3.9707535280976E-06,
+        "sellCount": 166,
+        "sellVolumeSol": 49.516202549
+    },
+    {
+        "buyCount": 229,
+        "buyVolumeSol": 55.1324480610001,
+        "createdAt": "2025-02-03T14:58:00.000Z",
+        "priceSol": 3.74308161826375E-06,
+        "sellCount": 194,
+        "sellVolumeSol": 47.394881599
+    },
+    {
+        "buyCount": 228,
+        "buyVolumeSol": 40.1536880650001,
+        "createdAt": "2025-02-03T14:57:00.000Z",
+        "priceSol": 3.46510377259728E-06,
+        "sellCount": 183,
+        "sellVolumeSol": 30.316615236
+    },
+    {
+        "buyCount": 243,
+        "buyVolumeSol": 49.8853320370001,
+        "createdAt": "2025-02-03T14:56:00.000Z",
+        "priceSol": 3.52699958744686E-06,
+        "sellCount": 202,
+        "sellVolumeSol": 52.049550254
+    },
+    {
+        "buyCount": 259,
+        "buyVolumeSol": 41.8102828370001,
+        "createdAt": "2025-02-03T14:55:00.000Z",
+        "priceSol": 3.64573458098379E-06,
+        "sellCount": 165,
+        "sellVolumeSol": 46.498187091
+    },
+    {
+        "buyCount": 249,
+        "buyVolumeSol": 75.3544326830001,
+        "createdAt": "2025-02-03T14:54:00.000Z",
+        "priceSol": 4.14920749503006E-06,
+        "sellCount": 212,
+        "sellVolumeSol": 91.22974226
+    },
+    {
+        "buyCount": 254,
+        "buyVolumeSol": 53.589431579,
+        "createdAt": "2025-02-03T14:53:00.000Z",
+        "priceSol": 4.31361858778836E-06,
+        "sellCount": 161,
+        "sellVolumeSol": 58.477929851
+    },
+    {
+        "buyCount": 207,
+        "buyVolumeSol": 40.962698974,
+        "createdAt": "2025-02-03T14:52:00.000Z",
+        "priceSol": 4.19443851945581E-06,
+        "sellCount": 169,
+        "sellVolumeSol": 37.162534663
+    },
+    {
+        "buyCount": 259,
+        "buyVolumeSol": 48.594330691,
+        "createdAt": "2025-02-03T14:51:00.000Z",
+        "priceSol": 4.11893273939287E-06,
+        "sellCount": 184,
+        "sellVolumeSol": 46.188208253
+    },
+    {
+        "buyCount": 242,
+        "buyVolumeSol": 42.0080878130001,
+        "createdAt": "2025-02-03T14:50:00.000Z",
+        "priceSol": 4.10306268671011E-06,
+        "sellCount": 168,
+        "sellVolumeSol": 42.083191867
+    },
+    {
+        "buyCount": 211,
+        "buyVolumeSol": 40.10588448,
+        "createdAt": "2025-02-03T14:49:00.000Z",
+        "priceSol": 3.98162186346872E-06,
+        "sellCount": 161,
+        "sellVolumeSol": 36.046195409
+    },
+    {
+        "buyCount": 215,
+        "buyVolumeSol": 39.918278418,
+        "createdAt": "2025-02-03T14:48:00.000Z",
+        "priceSol": 3.77657509418916E-06,
+        "sellCount": 167,
+        "sellVolumeSol": 33.069459174
+    },
+    {
+        "buyCount": 213,
+        "buyVolumeSol": 39.527846647,
+        "createdAt": "2025-02-03T14:47:00.000Z",
+        "priceSol": 3.91759672895814E-06,
+        "sellCount": 164,
+        "sellVolumeSol": 43.352998985
+    },
+    {
+        "buyCount": 222,
+        "buyVolumeSol": 38.341313814,
+        "createdAt": "2025-02-03T14:46:00.000Z",
+        "priceSol": 3.96889886148284E-06,
+        "sellCount": 165,
+        "sellVolumeSol": 40.637355486
+    },
+    {
+        "buyCount": 219,
+        "buyVolumeSol": 51.4287833190001,
+        "createdAt": "2025-02-03T14:45:00.000Z",
+        "priceSol": 3.5690401514304E-06,
+        "sellCount": 190,
+        "sellVolumeSol": 37.804175278
+    },
+    {
+        "buyCount": 245,
+        "buyVolumeSol": 25.24881398,
+        "createdAt": "2025-02-03T14:44:00.000Z",
+        "priceSol": 3.49297724393765E-06,
+        "sellCount": 145,
+        "sellVolumeSol": 22.530553463
+    },
+    {
+        "buyCount": 261,
+        "buyVolumeSol": 32.659484109,
+        "createdAt": "2025-02-03T14:43:00.000Z",
+        "priceSol": 3.42534252114982E-06,
+        "sellCount": 152,
+        "sellVolumeSol": 30.161095917
+    },
+    {
+        "buyCount": 210,
+        "buyVolumeSol": 45.9289716540001,
+        "createdAt": "2025-02-03T14:42:00.000Z",
+        "priceSol": 3.23384261148826E-06,
+        "sellCount": 154,
+        "sellVolumeSol": 39.000683283
+    },
+    {
+        "buyCount": 249,
+        "buyVolumeSol": 114.291394207,
+        "createdAt": "2025-02-03T14:41:00.000Z",
+        "priceSol": 3.28860913529676E-06,
+        "sellCount": 155,
+        "sellVolumeSol": 115.959444149
+    },
+    {
+        "buyCount": 227,
+        "buyVolumeSol": 35.391972649,
+        "createdAt": "2025-02-03T14:40:00.000Z",
+        "priceSol": 3.0755756396436E-06,
+        "sellCount": 162,
+        "sellVolumeSol": 26.774628655
+    },
+    {
+        "buyCount": 184,
+        "buyVolumeSol": 26.867858519,
+        "createdAt": "2025-02-03T14:39:00.000Z",
+        "priceSol": 3.00626832531134E-06,
+        "sellCount": 159,
+        "sellVolumeSol": 24.301698923
+    },
+    {
+        "buyCount": 177,
+        "buyVolumeSol": 36.269005642,
+        "createdAt": "2025-02-03T14:38:00.000Z",
+        "priceSol": 2.83812324310634E-06,
+        "sellCount": 188,
+        "sellVolumeSol": 29.69991997
+    },
+    {
+        "buyCount": 236,
+        "buyVolumeSol": 36.5819438,
+        "createdAt": "2025-02-03T14:37:00.000Z",
+        "priceSol": 2.84603206408062E-06,
+        "sellCount": 150,
+        "sellVolumeSol": 37.555115239
+    },
+    {
+        "buyCount": 233,
+        "buyVolumeSol": 35.1096822,
+        "createdAt": "2025-02-03T14:36:00.000Z",
+        "priceSol": 2.92011838341558E-06,
+        "sellCount": 155,
+        "sellVolumeSol": 37.190243396
+    },
+    {
+        "buyCount": 186,
+        "buyVolumeSol": 29.724190866,
+        "createdAt": "2025-02-03T14:35:00.000Z",
+        "priceSol": 2.87377941253406E-06,
+        "sellCount": 156,
+        "sellVolumeSol": 28.480876608
+    },
+    {
+        "buyCount": 183,
+        "buyVolumeSol": 27.256628898,
+        "createdAt": "2025-02-03T14:34:00.000Z",
+        "priceSol": 2.80199903577609E-06,
+        "sellCount": 145,
+        "sellVolumeSol": 23.816445391
+    },
+    {
+        "buyCount": 180,
+        "buyVolumeSol": 29.17126081,
+        "createdAt": "2025-02-03T14:33:00.000Z",
+        "priceSol": 2.71242029351954E-06,
+        "sellCount": 139,
+        "sellVolumeSol": 26.196096595
+    },
+    {
+        "buyCount": 215,
+        "buyVolumeSol": 29.395294611,
+        "createdAt": "2025-02-03T14:32:00.000Z",
+        "priceSol": 2.73300087071832E-06,
+        "sellCount": 145,
+        "sellVolumeSol": 29.420212683
+    },
+    {
+        "buyCount": 190,
+        "buyVolumeSol": 25.91294958,
+        "createdAt": "2025-02-03T14:31:00.000Z",
+        "priceSol": 2.70708168696559E-06,
+        "sellCount": 148,
+        "sellVolumeSol": 24.898877283
+    },
+    {
+        "buyCount": 179,
+        "buyVolumeSol": 28.85199832,
+        "createdAt": "2025-02-03T14:30:00.000Z",
+        "priceSol": 2.57193436804139E-06,
+        "sellCount": 164,
+        "sellVolumeSol": 23.385181265
+    },
+    {
+        "buyCount": 215,
+        "buyVolumeSol": 30.789843259,
+        "createdAt": "2025-02-03T14:29:00.000Z",
+        "priceSol": 2.33607163854443E-06,
+        "sellCount": 188,
+        "sellVolumeSol": 21.50292536
+    },
+    {
+        "buyCount": 215,
+        "buyVolumeSol": 25.559073558,
+        "createdAt": "2025-02-03T14:28:00.000Z",
+        "priceSol": 2.32164070720241E-06,
+        "sellCount": 172,
+        "sellVolumeSol": 24.282166223
+    },
+    {
+        "buyCount": 220,
+        "buyVolumeSol": 19.355057772,
+        "createdAt": "2025-02-03T14:27:00.000Z",
+        "priceSol": 2.34900525198159E-06,
+        "sellCount": 150,
+        "sellVolumeSol": 20.983057389
+    },
+    {
+        "buyCount": 252,
+        "buyVolumeSol": 21.529605102,
+        "createdAt": "2025-02-03T14:26:00.000Z",
+        "priceSol": 2.402316302405E-06,
+        "sellCount": 136,
+        "sellVolumeSol": 23.115806561
+    },
+    {
+        "buyCount": 234,
+        "buyVolumeSol": 20.72734418,
+        "createdAt": "2025-02-03T14:25:00.000Z",
+        "priceSol": 2.57114174668092E-06,
+        "sellCount": 125,
+        "sellVolumeSol": 28.331725146
+    },
+    {
+        "buyCount": 240,
+        "buyVolumeSol": 24.856172818,
+        "createdAt": "2025-02-03T14:24:00.000Z",
+        "priceSol": 2.72619068995702E-06,
+        "sellCount": 136,
+        "sellVolumeSol": 30.293619323
+    },
+    {
+        "buyCount": 255,
+        "buyVolumeSol": 23.971448023,
+        "createdAt": "2025-02-03T14:23:00.000Z",
+        "priceSol": 2.82807887997403E-06,
+        "sellCount": 129,
+        "sellVolumeSol": 28.587878198
+    },
+    {
+        "buyCount": 227,
+        "buyVolumeSol": 29.509939316,
+        "createdAt": "2025-02-03T14:22:00.000Z",
+        "priceSol": 2.94511056310897E-06,
+        "sellCount": 135,
+        "sellVolumeSol": 33.312593217
+    },
+    {
+        "buyCount": 220,
+        "buyVolumeSol": 23.016834455,
+        "createdAt": "2025-02-03T14:21:00.000Z",
+        "priceSol": 2.90022691517181E-06,
+        "sellCount": 154,
+        "sellVolumeSol": 21.157727306
+    },
+    {
+        "buyCount": 236,
+        "buyVolumeSol": 28.069668287,
+        "createdAt": "2025-02-03T14:20:00.000Z",
+        "priceSol": 2.83105978308107E-06,
+        "sellCount": 136,
+        "sellVolumeSol": 25.398857129
+    },
+    {
+        "buyCount": 273,
+        "buyVolumeSol": 35.567557173,
+        "createdAt": "2025-02-03T14:19:00.000Z",
+        "priceSol": 2.97048360694829E-06,
+        "sellCount": 126,
+        "sellVolumeSol": 41.803420776
+    },
+    {
+        "buyCount": 255,
+        "buyVolumeSol": 20.650562668,
+        "createdAt": "2025-02-03T14:18:00.000Z",
+        "priceSol": 3.23392439908789E-06,
+        "sellCount": 108,
+        "sellVolumeSol": 30.288948877
+    },
+    {
+        "buyCount": 234,
+        "buyVolumeSol": 35.614905274,
+        "createdAt": "2025-02-03T14:17:00.000Z",
+        "priceSol": 3.15665041912174E-06,
+        "sellCount": 139,
+        "sellVolumeSol": 32.466086841
+    },
+    {
+        "buyCount": 242,
+        "buyVolumeSol": 26.879939879,
+        "createdAt": "2025-02-03T14:16:00.000Z",
+        "priceSol": 3.22495841810774E-06,
+        "sellCount": 117,
+        "sellVolumeSol": 28.555952783
+    },
+    {
+        "buyCount": 245,
+        "buyVolumeSol": 26.037467253,
+        "createdAt": "2025-02-03T14:15:00.000Z",
+        "priceSol": 3.21992842233826E-06,
+        "sellCount": 139,
+        "sellVolumeSol": 26.936921274
+    },
+    {
+        "buyCount": 242,
+        "buyVolumeSol": 25.19881261,
+        "createdAt": "2025-02-03T14:14:00.000Z",
+        "priceSol": 3.16968975947432E-06,
+        "sellCount": 126,
+        "sellVolumeSol": 23.541122901
+    },
+    {
+        "buyCount": 276,
+        "buyVolumeSol": 30.807453475,
+        "createdAt": "2025-02-03T14:13:00.000Z",
+        "priceSol": 3.33044968612089E-06,
+        "sellCount": 142,
+        "sellVolumeSol": 35.812416647
+    },
+    {
+        "buyCount": 247,
+        "buyVolumeSol": 27.817813457,
+        "createdAt": "2025-02-03T14:12:00.000Z",
+        "priceSol": 3.17529128969131E-06,
+        "sellCount": 127,
+        "sellVolumeSol": 21.425938912
+    },
+    {
+        "buyCount": 257,
+        "buyVolumeSol": 30.03121352,
+        "createdAt": "2025-02-03T14:11:00.000Z",
+        "priceSol": 3.29583131223866E-06,
+        "sellCount": 143,
+        "sellVolumeSol": 34.394998368
+    },
+    {
+        "buyCount": 214,
+        "buyVolumeSol": 22.875188252,
+        "createdAt": "2025-02-03T14:10:00.000Z",
+        "priceSol": 3.18509843296282E-06,
+        "sellCount": 114,
+        "sellVolumeSol": 19.537672183
+    },
+    {
+        "buyCount": 243,
+        "buyVolumeSol": 25.588226969,
+        "createdAt": "2025-02-03T14:09:00.000Z",
+        "priceSol": 3.29922506481987E-06,
+        "sellCount": 115,
+        "sellVolumeSol": 28.949395141
+    },
+    {
+        "buyCount": 236,
+        "buyVolumeSol": 31.248917908,
+        "createdAt": "2025-02-03T14:08:00.000Z",
+        "priceSol": 3.08493599207938E-06,
+        "sellCount": 124,
+        "sellVolumeSol": 24.004251288
+    },
+    {
+        "buyCount": 246,
+        "buyVolumeSol": 28.039820159,
+        "createdAt": "2025-02-03T14:07:00.000Z",
+        "priceSol": 2.88475851290757E-06,
+        "sellCount": 126,
+        "sellVolumeSol": 19.860670444
+    },
+    {
+        "buyCount": 250,
+        "buyVolumeSol": 41.954261571,
+        "createdAt": "2025-02-03T14:06:00.000Z",
+        "priceSol": 2.72151593430367E-06,
+        "sellCount": 137,
+        "sellVolumeSol": 35.471123235
+    },
+    {
+        "buyCount": 261,
+        "buyVolumeSol": 23.030017983,
+        "createdAt": "2025-02-03T14:05:00.000Z",
+        "priceSol": 2.95205120024178E-06,
+        "sellCount": 99,
+        "sellVolumeSol": 31.901088954
+    },
+    {
+        "buyCount": 236,
+        "buyVolumeSol": 19.334403551,
+        "createdAt": "2025-02-03T14:04:00.000Z",
+        "priceSol": 2.88546679061911E-06,
+        "sellCount": 115,
+        "sellVolumeSol": 17.751706427
+    },
+    {
+        "buyCount": 246,
+        "buyVolumeSol": 36.478655989,
+        "createdAt": "2025-02-03T14:03:00.000Z",
+        "priceSol": 2.80689164759465E-06,
+        "sellCount": 167,
+        "sellVolumeSol": 33.071385132
+    },
+    {
+        "buyCount": 219,
+        "buyVolumeSol": 29.332888039,
+        "createdAt": "2025-02-03T14:02:00.000Z",
+        "priceSol": 2.62155151520576E-06,
+        "sellCount": 150,
+        "sellVolumeSol": 21.852747376
+    },
+    {
+        "buyCount": 248,
+        "buyVolumeSol": 19.137434891,
+        "createdAt": "2025-02-03T14:01:00.000Z",
+        "priceSol": 2.65596001136462E-06,
+        "sellCount": 115,
+        "sellVolumeSol": 20.691461676
+    },
+    {
+        "buyCount": 270,
+        "buyVolumeSol": 16.710273267,
+        "createdAt": "2025-02-03T14:00:00.000Z",
+        "priceSol": 2.83112060968957E-06,
+        "sellCount": 89,
+        "sellVolumeSol": 23.294867091
+    },
+    {
+        "buyCount": 237,
+        "buyVolumeSol": 19.039269492,
+        "createdAt": "2025-02-03T13:59:00.000Z",
+        "priceSol": 2.85075720463488E-06,
+        "sellCount": 93,
+        "sellVolumeSol": 19.164655868
+    },
+    {
+        "buyCount": 250,
+        "buyVolumeSol": 22.928049761,
+        "createdAt": "2025-02-03T13:58:00.000Z",
+        "priceSol": 2.7517116E-06,
+        "sellCount": 133,
+        "sellVolumeSol": 19.060897307
+    },
+    {
+        "buyCount": 268,
+        "buyVolumeSol": 28.438574016,
+        "createdAt": "2025-02-03T13:57:00.000Z",
+        "priceSol": 2.79368886771791E-06,
+        "sellCount": 117,
+        "sellVolumeSol": 29.902073203
+    },
+    {
+        "buyCount": 221,
+        "buyVolumeSol": 42.606075758,
+        "createdAt": "2025-02-03T13:56:00.000Z",
+        "priceSol": 2.39633926172193E-06,
+        "sellCount": 192,
+        "sellVolumeSol": 26.656514313
+    },
+    {
+        "buyCount": 263,
+        "buyVolumeSol": 24.357702075,
+        "createdAt": "2025-02-03T13:55:00.000Z",
+        "priceSol": 2.62529378678283E-06,
+        "sellCount": 142,
+        "sellVolumeSol": 33.631177781
+    },
+    {
+        "buyCount": 276,
+        "buyVolumeSol": 23.100530219,
+        "createdAt": "2025-02-03T13:54:00.000Z",
+        "priceSol": 2.80065002999405E-06,
+        "sellCount": 118,
+        "sellVolumeSol": 30.588947626
+    },
+    {
+        "buyCount": 250,
+        "buyVolumeSol": 28.908490316,
+        "createdAt": "2025-02-03T13:53:00.000Z",
+        "priceSol": 2.92771257137189E-06,
+        "sellCount": 126,
+        "sellVolumeSol": 32.950821223
+    },
+    {
+        "buyCount": 291,
+        "buyVolumeSol": 19.761591675,
+        "createdAt": "2025-02-03T13:52:00.000Z",
+        "priceSol": 3.10596294537697E-06,
+        "sellCount": 128,
+        "sellVolumeSol": 26.328706823
+    },
+    {
+        "buyCount": 286,
+        "buyVolumeSol": 59.9594216580001,
+        "createdAt": "2025-02-03T13:51:00.000Z",
+        "priceSol": 3.47529261300072E-06,
+        "sellCount": 178,
+        "sellVolumeSol": 73.724076336
+    },
+    {
+        "buyCount": 262,
+        "buyVolumeSol": 49.2355614180002,
+        "createdAt": "2025-02-03T13:50:00.000Z",
+        "priceSol": 3.18285240871451E-06,
+        "sellCount": 119,
+        "sellVolumeSol": 38.703178211
+    },
+    {
+        "buyCount": 290,
+        "buyVolumeSol": 30.837316652,
+        "createdAt": "2025-02-03T13:49:00.000Z",
+        "priceSol": 3.44510126065557E-06,
+        "sellCount": 114,
+        "sellVolumeSol": 39.379942141
+    },
+    {
+        "buyCount": 341,
+        "buyVolumeSol": 57.9177016810002,
+        "createdAt": "2025-02-03T13:48:00.000Z",
+        "priceSol": 3.46343221297189E-06,
+        "sellCount": 168,
+        "sellVolumeSol": 60.657486748
+    },
+    {
+        "buyCount": 239,
+        "buyVolumeSol": 30.686322483,
+        "createdAt": "2025-02-03T13:47:00.000Z",
+        "priceSol": 3.17874432161035E-06,
+        "sellCount": 128,
+        "sellVolumeSol": 18.312954071
+    },
+    {
+        "buyCount": 257,
+        "buyVolumeSol": 45.3754998330002,
+        "createdAt": "2025-02-03T13:46:00.000Z",
+        "priceSol": 2.90067963075051E-06,
+        "sellCount": 168,
+        "sellVolumeSol": 35.645798906
+    },
+    {
+        "buyCount": 266,
+        "buyVolumeSol": 34.493346707,
+        "createdAt": "2025-02-03T13:45:00.000Z",
+        "priceSol": 2.96861079812171E-06,
+        "sellCount": 133,
+        "sellVolumeSol": 36.948101683
+    },
+    {
+        "buyCount": 263,
+        "buyVolumeSol": 27.570153687,
+        "createdAt": "2025-02-03T13:44:00.000Z",
+        "priceSol": 2.79229700581623E-06,
+        "sellCount": 131,
+        "sellVolumeSol": 19.977862725
+    },
+    {
+        "buyCount": 325,
+        "buyVolumeSol": 43.1478598250001,
+        "createdAt": "2025-02-03T13:43:00.000Z",
+        "priceSol": 3.05628441970989E-06,
+        "sellCount": 151,
+        "sellVolumeSol": 53.887738184
+    },
+    {
+        "buyCount": 265,
+        "buyVolumeSol": 34.656647613,
+        "createdAt": "2025-02-03T13:42:00.000Z",
+        "priceSol": 2.91908952679781E-06,
+        "sellCount": 147,
+        "sellVolumeSol": 28.659081082
+    },
+    {
+        "buyCount": 274,
+        "buyVolumeSol": 34.888602144,
+        "createdAt": "2025-02-03T13:41:00.000Z",
+        "priceSol": 2.61815348930408E-06,
+        "sellCount": 140,
+        "sellVolumeSol": 23.278838152
+    },
+    {
+        "buyCount": 270,
+        "buyVolumeSol": 23.627468264,
+        "createdAt": "2025-02-03T13:40:00.000Z",
+        "priceSol": 2.61537430543157E-06,
+        "sellCount": 130,
+        "sellVolumeSol": 23.452837029
+    },
+    {
+        "buyCount": 302,
+        "buyVolumeSol": 60.8539571580004,
+        "createdAt": "2025-02-03T13:39:00.000Z",
+        "priceSol": 2.59915685950634E-06,
+        "sellCount": 99,
+        "sellVolumeSol": 60.080517847
+    },
+    {
+        "buyCount": 297,
+        "buyVolumeSol": 14.5626036459999,
+        "createdAt": "2025-02-03T13:38:00.000Z",
+        "priceSol": 2.48446261135813E-06,
+        "sellCount": 62,
+        "sellVolumeSol": 10.53667642
+    },
+    {
+        "buyCount": 289,
+        "buyVolumeSol": 12.05516918,
+        "createdAt": "2025-02-03T13:37:00.000Z",
+        "priceSol": 2.43694822922812E-06,
+        "sellCount": 76,
+        "sellVolumeSol": 9.460184473
+    },
+    {
+        "buyCount": 311,
+        "buyVolumeSol": 22.553734589,
+        "createdAt": "2025-02-03T13:36:00.000Z",
+        "priceSol": 2.28150328251285E-06,
+        "sellCount": 86,
+        "sellVolumeSol": 16.008430908
+    },
+    {
+        "buyCount": 292,
+        "buyVolumeSol": 20.8403478029999,
+        "createdAt": "2025-02-03T13:35:00.000Z",
+        "priceSol": 2.15145947695955E-06,
+        "sellCount": 76,
+        "sellVolumeSol": 15.189272552
+    },
+    {
+        "buyCount": 301,
+        "buyVolumeSol": 32.198634872,
+        "createdAt": "2025-02-03T13:34:00.000Z",
+        "priceSol": 1.96070906727836E-06,
+        "sellCount": 83,
+        "sellVolumeSol": 23.345384668
+    },
+    {
+        "buyCount": 327,
+        "buyVolumeSol": 24.084456424,
+        "createdAt": "2025-02-03T13:33:00.000Z",
+        "priceSol": 1.8888059912926E-06,
+        "sellCount": 81,
+        "sellVolumeSol": 20.954270524
+    },
+    {
+        "buyCount": 277,
+        "buyVolumeSol": 21.064661939,
+        "createdAt": "2025-02-03T13:32:00.000Z",
+        "priceSol": 1.68481100427964E-06,
+        "sellCount": 85,
+        "sellVolumeSol": 11.186406987
+    },
+    {
+        "buyCount": 87,
+        "buyVolumeSol": 17.988808897,
+        "createdAt": "2025-02-03T13:31:00.000Z",
+        "priceSol": 1.49719246336768E-06,
+        "sellCount": 67,
+        "sellVolumeSol": 8.417603213
+    },
+    {
+        "buyCount": 2,
+        "buyVolumeSol": 0.2099,
+        "createdAt": "2025-02-03T13:30:00.000Z",
+        "priceSol": 1.49766993870446E-06,
+        "sellCount": 5,
+        "sellVolumeSol": 0.184563463
+    },
+    {
+        "buyCount": 9,
+        "buyVolumeSol": 2.51859485,
+        "createdAt": "2025-02-03T13:29:00.000Z",
+        "priceSol": 1.46457722273425E-06,
+        "sellCount": 13,
+        "sellVolumeSol": 1.361307326
+    },
+    {
+        "buyCount": 11,
+        "buyVolumeSol": 1.074957727,
+        "createdAt": "2025-02-03T13:28:00.000Z",
+        "priceSol": 1.49106806053185E-06,
+        "sellCount": 5,
+        "sellVolumeSol": 2.503452595
+    },
+    {
+        "buyCount": 3,
+        "buyVolumeSol": 36.638546095,
+        "createdAt": "2025-02-03T13:27:00.000Z",
+        "priceSol": 1.44506096178827E-06,
+        "sellCount": 11,
+        "sellVolumeSol": 34.03694941
+    },
+    {
+        "buyCount": 3,
+        "buyVolumeSol": 0.820260562,
+        "createdAt": "2025-02-03T13:26:00.000Z",
+        "priceSol": 1.44557567769545E-06,
+        "sellCount": 8,
+        "sellVolumeSol": 0.409645163
+    },
+    {
+        "buyCount": 4,
+        "buyVolumeSol": 0.368787458,
+        "createdAt": "2025-02-03T13:25:00.000Z",
+        "priceSol": 1.44626048058403E-06,
+        "sellCount": 3,
+        "sellVolumeSol": 0.309638954
+    },
+    {
+        "buyCount": 6,
+        "buyVolumeSol": 2.297650172,
+        "createdAt": "2025-02-03T13:24:00.000Z",
+        "priceSol": 1.406387648532E-06,
+        "sellCount": 10,
+        "sellVolumeSol": 0.205729662
+    },
+    {
+        "buyCount": 5,
+        "buyVolumeSol": 0.238184171,
+        "createdAt": "2025-02-03T13:23:00.000Z",
+        "priceSol": 1.39640823394713E-06,
+        "sellCount": 5,
+        "sellVolumeSol": 0.174340995
+    },
+    {
+        "buyCount": 4,
+        "buyVolumeSol": 0.126863119,
+        "createdAt": "2025-02-03T13:22:00.000Z",
+        "priceSol": 1.4072292478414E-06,
+        "sellCount": 3,
+        "sellVolumeSol": 1.168158497
+    },
+    {
+        "buyCount": 2,
+        "buyVolumeSol": 0.34975,
+        "createdAt": "2025-02-03T13:21:00.000Z",
+        "priceSol": 1.42845271803096E-06,
+        "sellCount": 7,
+        "sellVolumeSol": 1.032710587
+    },
+    {
+        "buyCount": 14,
+        "buyVolumeSol": 3.910093143,
+        "createdAt": "2025-02-03T13:20:00.000Z",
+        "priceSol": 1.36743092581721E-06,
+        "sellCount": 3,
+        "sellVolumeSol": 0.140000374
+    },
+    {
+        "buyCount": 6,
+        "buyVolumeSol": 0.328707494,
+        "createdAt": "2025-02-03T13:19:00.000Z",
+        "priceSol": 1.39672207225833E-06,
+        "sellCount": 12,
+        "sellVolumeSol": 1.887109202
+    },
+    {
+        "buyCount": 9,
+        "buyVolumeSol": 1.829687205,
+        "createdAt": "2025-02-03T13:18:00.000Z",
+        "priceSol": 1.47317711260123E-06,
+        "sellCount": 9,
+        "sellVolumeSol": 5.850385829
+    },
+    {
+        "buyCount": 16,
+        "buyVolumeSol": 14.807031361,
+        "createdAt": "2025-02-03T13:17:00.000Z",
+        "priceSol": 1.42468979212638E-06,
+        "sellCount": 9,
+        "sellVolumeSol": 12.818636001
+    },
+    {
+        "buyCount": 8,
+        "buyVolumeSol": 0.387077144,
+        "createdAt": "2025-02-03T13:16:00.000Z",
+        "priceSol": 1.52040591349211E-06,
+        "sellCount": 20,
+        "sellVolumeSol": 5.370133109
+    },
+    {
+        "buyCount": 17,
+        "buyVolumeSol": 2.568717776,
+        "createdAt": "2025-02-03T13:15:00.000Z",
+        "priceSol": 1.58883269460239E-06,
+        "sellCount": 20,
+        "sellVolumeSol": 5.584188694
+    },
+    {
+        "buyCount": 22,
+        "buyVolumeSol": 7.31664354,
+        "createdAt": "2025-02-03T13:14:00.000Z",
+        "priceSol": 1.48587309040466E-06,
+        "sellCount": 14,
+        "sellVolumeSol": 2.454188934
+    },
+    {
+        "buyCount": 13,
+        "buyVolumeSol": 2.694962418,
+        "createdAt": "2025-02-03T13:13:00.000Z",
+        "priceSol": 1.45687534906346E-06,
+        "sellCount": 11,
+        "sellVolumeSol": 0.730604752
+    },
+    {
+        "buyCount": 20,
+        "buyVolumeSol": 3.033982473,
+        "createdAt": "2025-02-03T13:12:00.000Z",
+        "priceSol": 1.43826906591554E-06,
+        "sellCount": 13,
+        "sellVolumeSol": 2.676796926
+    },
+    {
+        "buyCount": 22,
+        "buyVolumeSol": 5.854058119,
+        "createdAt": "2025-02-03T13:11:00.000Z",
+        "priceSol": 1.46654457970252E-06,
+        "sellCount": 22,
+        "sellVolumeSol": 7.111832212
+    },
+    {
+        "buyCount": 31,
+        "buyVolumeSol": 16.994518091,
+        "createdAt": "2025-02-03T13:10:00.000Z",
+        "priceSol": 1.28884127593592E-06,
+        "sellCount": 29,
+        "sellVolumeSol": 7.237781305
+    },
+    {
+        "buyCount": 23,
+        "buyVolumeSol": 25.224995372,
+        "createdAt": "2025-02-03T13:09:00.000Z",
+        "priceSol": 9.92353893885138E-07,
+        "sellCount": 31,
+        "sellVolumeSol": 7.419604227
+    },
+    {
+        "buyCount": 19,
+        "buyVolumeSol": 4.844450778,
+        "createdAt": "2025-02-03T13:08:00.000Z",
+        "priceSol": 9.94677728176138E-07,
+        "sellCount": 22,
+        "sellVolumeSol": 5.049663135
+    },
+    {
+        "buyCount": 29,
+        "buyVolumeSol": 6.665748008,
+        "createdAt": "2025-02-03T13:07:00.000Z",
+        "priceSol": 1.1607540850867E-06,
+        "sellCount": 56,
+        "sellVolumeSol": 16.379829678
+    },
+    {
+        "buyCount": 41,
+        "buyVolumeSol": 42.734060613,
+        "createdAt": "2025-02-03T13:06:00.000Z",
+        "priceSol": 6.72083974045072E-07,
+        "sellCount": 46,
+        "sellVolumeSol": 9.734342167
+    },
+    {
+        "buyCount": 61,
+        "buyVolumeSol": 18.636974993,
+        "createdAt": "2025-02-03T13:05:00.000Z",
+        "priceSol": 6.13347076396825E-07,
+        "sellCount": 50,
+        "sellVolumeSol": 13.916228219
+    },
+    {
+        "buyCount": 107,
+        "buyVolumeSol": 54.863062624,
+        "createdAt": "2025-02-03T13:04:00.000Z",
+        "priceSol": 4.54583699737512E-07,
+        "sellCount": 11,
+        "sellVolumeSol": 33.746272358
+    },
+    {
+        "buyCount": 11,
+        "buyVolumeSol": 85.005359057,
+        "createdAt": "2025-02-03T13:02:00.000Z",
+        "priceSol": 3.95395037278662E-08,
+        "sellCount": 0,
+        "sellVolumeSol": 0
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "createdAt": "2025-02-03T13:04:37.282Z",
+        "extra": {
+            "migratedFrom": "Pump V1",
+            "pumpDeployerAddress": "6ycXq6DRXHu86WVzhxuZ3Bnp5nNsktdvFHGsw6twhbgB"
+        },
+        "hourlyVolumeSol": 286.658053488,
+        "liquiditySol": 100.938706075,
+        "liquidityToken": 221786502.069181,
+        "migrated": true,
+        "pairAddress": "DcSpjxxeZHJLPLpki5W1x7r9Nnn1E2C1Nyd9rjR1TczB",
+        "protocol": "Raydium V4",
+        "supply": 999936905.273771,
+        "tokenAddress": "9rPUZjQF33KvnGKgUreDnmqJeUaCm8Yx4adaGCj3pump",
+        "tokenImage": "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/DcSpjxxeZHJLPLpki5W1x7r9Nnn1E2C1Nyd9rjR1TczB.webp",
+        "tokenName": "McDonald's McVALUE",
+        "tokenTicker": "McVALUE"
+    }
+]

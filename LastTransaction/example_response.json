@@ -1,0 +1,16 @@
+{
+    "createdAt": "2025-02-03T21:40:27.285Z",
+    "innerIndex": 0,
+    "liquiditySol": 100.938706075,
+    "liquidityToken": 221786502.069181,
+    "makerAddress": "7hARSicdYvWR9saun1F3JDQjnnHY3k6wvNH2XXp2EA6A",
+    "outerIndex": 5,
+    "pairAddress": "DcSpjxxeZHJLPLpki5W1x7r9Nnn1E2C1Nyd9rjR1TczB",
+    "priceSol": 4.55746148439908E-07,
+    "priceUsd": 9.80127666834867E-05,
+    "signature": "5G445AQHotg2sNnoRNvruaq4QhtPELg8BseFh1hYXk8fZxLCq9mW8Dd2rwFKNdJDKKE2sUcjzYN1KDgANmjFagfZ",
+    "tokenAmount": 243598.949503,
+    "totalSol": 0.111019283,
+    "totalUsd": 23.87580700198,
+    "type": "buy"
+}
